@@ -1,0 +1,35 @@
+# Python 虚拟环境与模型（体积过大，不上传）
+_venv/
+_models/
+
+# 从 GitHub clone 的他人仓库，避免重复上传
+GitHub学习笔记与源码/
+学习资料/_GitHub备份/
+
+# 工具运行日志与临时记录
+_tools/*.log
+_tools/downloaded.txt
+_tools/transcribed.txt
+
+# 视频封面图（无视频本体时意义不大，且占体积）
+视频/**/*.jpg
+
+# PDF 电子书（版权原因不上传）
+Python学习/*.pdf
+Python学习/_核查/
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo

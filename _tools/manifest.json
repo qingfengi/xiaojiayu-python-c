@@ -1,0 +1,94 @@
+{
+  "mid": 314076440,
+  "uploader": "鱼C-小甲鱼",
+  "space": "https://space.bilibili.com/314076440",
+  "forum": "https://fishc.com.cn",
+  "groups": [
+    {
+      "dir": "01-C语言-带你学C带你飞",
+      "items": [
+        {"bvid": "BV1mK411n7vn", "sub": "00-学习环境搭建", "parts": 1,
+         "title": "《带你学C带你飞》学习环境搭建教程"},
+        {"bvid": "BV17s411N78s", "sub": "01-正课", "parts": 61,
+         "title": "【C语言】《带你学C带你飞》"},
+        {"bvid": "BV1Pz4y1B7uZ", "sub": "02-调试篇", "parts": 2,
+         "title": "【调试篇】《带你学C带你飞》"},
+        {"bvid": "BV1Ws411N7JC", "sub": "03-VIM快速入门", "parts": 7,
+         "title": "【VIM快速入门】《带你学C带你飞》（番外篇）"}
+      ]
+    },
+    {
+      "dir": "02-C语言-数据结构和算法",
+      "items": [
+        {"bvid": "BV1jW411K7yg", "sub": "01-C语言描述", "parts": 0,
+         "title": "【C语言描述】《数据结构和算法》"},
+        {"bvid": "BV12m4y1e7iY", "sub": "02-应用版", "parts": 0,
+         "title": "《数据结构和算法》应用版"},
+        {"bvid": "BV1MX4y1p7ud", "sub": "03-考研版", "parts": 0,
+         "title": "《数据结构和算法》考研版"}
+      ]
+    },
+    {
+      "dir": "03-Python-零基础入门学习Python-最新版",
+      "items": [
+        {"bvid": "BV1c4411e77t", "sub": "", "parts": 86,
+         "title": "【Python教程】《零基础入门学习Python》最新版（完结撒花）"}
+      ]
+    },
+    {
+      "dir": "04-Python-零基础入门学习Python-第一版",
+      "items": [
+        {"bvid": "BV1Fs411A7HZ", "sub": "", "parts": 97,
+         "title": "【Python教程】《零基础入门学习Python》"}
+      ]
+    },
+    {
+      "dir": "05-Python-笨办法学Python第5版",
+      "items": [
+        {"bvid": "BV1oHrYYwEnu", "sub": "", "parts": 48,
+         "title": "【Python教程】《“笨办法”学Python》第5版"}
+      ]
+    },
+    {
+      "dir": "06-Python-极客Python之效率革命",
+      "items": [
+        {"bvid": "BV1wp411o7dz", "sub": "01-爬虫篇", "parts": 6,
+         "title": "【爬虫篇】《极客Python之效率革命》"},
+        {"bvid": "BV1wp411o71g", "sub": "02-办公篇", "parts": 6,
+         "title": "【办公篇】《极客Python之效率革命》"},
+        {"bvid": "BV1Ub411P7g8", "sub": "03-绘图篇", "parts": 3,
+         "title": "【绘图篇】《极客Python之效率革命》"},
+        {"bvid": "BV1bs411N7ny", "sub": "04-Git实用教程", "parts": 10,
+         "title": "【Git教程】《极客Python之Git实用教程》"}
+      ]
+    },
+    {
+      "dir": "07-Python-进阶与专题",
+      "items": [
+        {"bvid": "BV1m14y1R7Fc", "sub": "01-collections模块", "parts": 4,
+         "title": "《Python高阶模块》-- collections模块"},
+        {"bvid": "BV1QonqzhEec", "sub": "02-结构化模式匹配", "parts": 0,
+         "title": "结构化模式匹配（上）"},
+        {"bvid": "BV1kJ41147s1", "sub": "03-OpenCV图像处理", "parts": 0,
+         "title": "【OpenCV篇】《通过案例学习图像处理及计算机视觉开发》"},
+        {"bvid": "BV1Uo4y1b7kk", "sub": "04-二维码生成器-上", "parts": 0,
+         "title": "使用Python制作专属二维码生成器（上）"},
+        {"bvid": "BV1QN41167Ft", "sub": "04-二维码生成器-下", "parts": 0,
+         "title": "使用Python制作专属二维码生成器（下）"},
+        {"bvid": "BV1YG411S7Dt", "sub": "05-AI抠图工具", "parts": 0,
+         "title": "手把手教你开发一个AI抠图工具（命令行模式）"},
+        {"bvid": "BV1DT411r7W6", "sub": "06-图片压缩自动化", "parts": 0,
+         "title": "火爆全球的主流图片压缩方案自动化脚本"},
+        {"bvid": "BV1rv4y1n7Mf", "sub": "07-发布Python包", "parts": 0,
+         "title": "快将你的「代码」与全世界 Python 开发者分享"}
+      ]
+    },
+    {
+      "dir": "08-C++入门",
+      "items": [
+        {"bvid": "BV1Ps411w73m", "sub": "", "parts": 0,
+         "title": "【C++语法】《C++快速入门》"}
+      ]
+    }
+  ]
+}

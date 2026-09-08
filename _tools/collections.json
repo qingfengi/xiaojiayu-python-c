@@ -1,0 +1,527 @@
+{
+  "seasons": [
+    {
+      "archives": [
+        {
+          "aid": 116317411675064,
+          "bvid": "BV1kPXeBAES6",
+          "ctime": 1774863327,
+          "duration": 3985,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i2.hdslb.com/bfs/archive/975a336bf218869ccd36bafebc3e051cc0b25143.jpg",
+          "playback_position": 0,
+          "pubdate": 1774863327,
+          "stat": {
+            "view": 37969,
+            "vt": 0,
+            "danmaku": 148
+          },
+          "state": 0,
+          "title": "《OpenClaw完整指南：从入门到天阶》（2026年08月13日更新）",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 117167244707844,
+          "bvid": "BV1dR496EET7",
+          "ctime": 1787830879,
+          "duration": 1082,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i2.hdslb.com/bfs/archive/c87e9c67eeb3ef839e7fc9ebc3f9e2ca7f64d10f.jpg",
+          "playback_position": 0,
+          "pubdate": 1787830879,
+          "stat": {
+            "view": 5487,
+            "vt": 0,
+            "danmaku": 1
+          },
+          "state": 0,
+          "title": "《零基础搭建个人知识库》（AnythingLLM保姆级教程）",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 52080698,
+          "bvid": "BV1c4411e77t",
+          "ctime": 1557527582,
+          "duration": 63328,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i2.hdslb.com/bfs/archive/383c952565090276d1908c1f50d416d0b43c8429.jpg",
+          "playback_position": 0,
+          "pubdate": 1557527581,
+          "stat": {
+            "view": 13533054,
+            "vt": 0,
+            "danmaku": 143407
+          },
+          "state": 0,
+          "title": "【Python教程】《零基础入门学习Python》最新版（完结撒花🎉）",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 27789609,
+          "bvid": "BV1Fs411A7HZ",
+          "ctime": 1532600708,
+          "duration": 109185,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i2.hdslb.com/bfs/archive/4fa3ded533ebbbb90df8c222ee8f5668aaab2a72.jpg",
+          "playback_position": 0,
+          "pubdate": 1532600708,
+          "stat": {
+            "view": 3571182,
+            "vt": 0,
+            "danmaku": 68059
+          },
+          "state": 0,
+          "title": "【Python教程】《零基础入门学习Python》",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 113792339935542,
+          "bvid": "BV1oHrYYwEnu",
+          "ctime": 1736333554,
+          "duration": 22080,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i1.hdslb.com/bfs/archive/9afd2c808cd9555adaff77cee908daf46e6d539f.jpg",
+          "playback_position": 0,
+          "pubdate": 1736333554,
+          "stat": {
+            "view": 311407,
+            "vt": 0,
+            "danmaku": 392
+          },
+          "state": 0,
+          "title": "【Python教程】《“笨办法”学Python》第5版（2026年07月16日更新）",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 785744954,
+          "bvid": "BV1m14y1R7Fc",
+          "ctime": 1688949286,
+          "duration": 2245,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i0.hdslb.com/bfs/archive/2e7936954cb7217bed45e80ff10e42786373c55a.jpg",
+          "playback_position": 0,
+          "pubdate": 1688949285,
+          "stat": {
+            "view": 52813,
+            "vt": 0,
+            "danmaku": 113
+          },
+          "state": 0,
+          "title": "《Python高阶模块》-- collections模块",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        }
+      ],
+      "meta": {
+        "category": 0,
+        "cover": "https://archive.biliimg.com/bfs/archive/ec5a4197a0a5811963847c7bc7e1a96fd67755c1.jpg",
+        "description": "鱼C工作室是一个专注于编程教育与技术分享的综合性学习平台，由“小甲鱼”创立。自成立以来，鱼C工作室以“让学习编程变得有趣又简单”为宗旨，致力于为零基础学习者提供系统、易懂、富有趣味性的学习体验。\n\n在鱼C工作室的平台上，用户可以免费或低成本地学习多门编程语言，包括Python、C语言、JavaScript、汇编语言等。其独创的教学风格以生动幽默、深入浅出著称，让复杂的技术知识变得轻松易懂。除视频课程外，平台还配备了大量的练习题、项目实战案例和课程笔记，帮助学习者真正掌握编程思维与实践能力。\n\n除了教学内容，鱼C工作室还运营着活跃的“鱼C论坛”，为学习者提供一个互助交流的社区空间。论坛中聚集了大量编程爱好者，他们在这里分享经验、答疑解惑、交流项目，共同成长。经过多年发展，鱼C工作室已成为中文编程学习者心中的“启蒙课堂”，也是许多人迈入程序世界的第一站。",
+        "mid": 314076440,
+        "name": "合集·鱼C官方课程",
+        "ptime": 1787830879,
+        "season_id": 6438416,
+        "total": 38,
+        "title": "鱼C官方课程"
+      },
+      "recent_aids": [
+        116317411675064,
+        117167244707844,
+        52080698,
+        27789609,
+        113792339935542,
+        785744954
+      ]
+    },
+    {
+      "archives": [
+        {
+          "aid": 115286938225912,
+          "bvid": "BV1QonqzhEec",
+          "ctime": 1759139389,
+          "duration": 591,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i2.hdslb.com/bfs/archive/b979376d2a8dd6a9ba31b277fc4e0fdba9ecce75.jpg",
+          "playback_position": 0,
+          "pubdate": 1759155600,
+          "stat": {
+            "view": 15309,
+            "vt": 0,
+            "danmaku": 0
+          },
+          "state": 0,
+          "title": "结构化模式匹配（上）",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        }
+      ],
+      "meta": {
+        "category": 0,
+        "cover": "https://archive.biliimg.com/bfs/archive/d75dcf9568d2ad26bb75018dafc9654bd7723926.jpg",
+        "description": "如果你已经完成了Python的入门学习，能够编写基本的脚本，但感觉自己的代码总有些“笨拙”，或者在面对更复杂的项目时感到力不从心，那么这门课程正是为你准备的。\n\n许多学习者在掌握基础后会遇到一个瓶颈期，感觉难以再进步……这是因为他们尚未触及到Python语言设计的精髓。\n\nPython之所以广受欢迎，不仅因为其语法简单，更在于其丰富而强大的进阶特性，能够让你用更少的代码完成更多的事情。",
+        "mid": 314076440,
+        "name": "合集·Python进阶语法",
+        "ptime": 1759155600,
+        "season_id": 6444164,
+        "total": 1,
+        "title": "Python进阶语法"
+      },
+      "recent_aids": [
+        115286938225912
+      ]
+    }
+  ],
+  "series": [
+    {
+      "archives": [
+        {
+          "aid": 114732702893733,
+          "bvid": "BV1ymKazwE5d",
+          "ctime": 1750682407,
+          "duration": 1743,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i0.hdslb.com/bfs/archive/b5ed0a8e7cadc47a25790f9d98743cb5067ac1e6.jpg",
+          "playback_position": 0,
+          "pubdate": 1750682407,
+          "stat": {
+            "view": 7806,
+            "vt": 0,
+            "danmaku": 0
+          },
+          "state": 0,
+          "title": "「机器学习」零基础入门学习❗️经典中的经典·MIT大佬Steve Brunton",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 1706640102,
+          "bvid": "BV17T421z7Ge",
+          "ctime": 1724296479,
+          "duration": 1055,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i1.hdslb.com/bfs/archive/32ae436a1effbe17dc1f549c8b981676053d9f49.jpg",
+          "playback_position": 0,
+          "pubdate": 1724296479,
+          "stat": {
+            "view": 31142,
+            "vt": 0,
+            "danmaku": 290
+          },
+          "state": 0,
+          "title": "尝试拿捏🤏🏻《黑神话：悟空》所有隐藏任务｜通关秘籍㊙️欢迎大神补充",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 1706291209,
+          "bvid": "BV1XT421k7E4",
+          "ctime": 1722862419,
+          "duration": 1913,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i2.hdslb.com/bfs/archive/8b0fd48610049b11710bef8fcb115ba7378678cf.jpg",
+          "playback_position": 0,
+          "pubdate": 1722862418,
+          "stat": {
+            "view": 6458,
+            "vt": 0,
+            "danmaku": 32
+          },
+          "state": 0,
+          "title": "「成功」的原则｜从牛马->百万富翁->身无分文->千万富翁的㊙️",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 1605769637,
+          "bvid": "BV1ym421V7Hr",
+          "ctime": 1719587377,
+          "duration": 3442,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i1.hdslb.com/bfs/archive/885d252486a324ff30b06d64fb58fd9b4aa51464.jpg",
+          "playback_position": 0,
+          "pubdate": 1719587376,
+          "stat": {
+            "view": 30009,
+            "vt": 0,
+            "danmaku": 29
+          },
+          "state": 0,
+          "title": "⚡️零基础入门学习Midjourney⚡️看了就能掌握AI时代的图片创作神器 | 官方权威版【更新中】",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 1105933329,
+          "bvid": "BV12w4m1e79z",
+          "ctime": 1719217971,
+          "duration": 3066,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i1.hdslb.com/bfs/archive/dce312ce415b2be83be867fbba0b07cae3e501bc.jpg",
+          "playback_position": 0,
+          "pubdate": 1719217971,
+          "stat": {
+            "view": 156371,
+            "vt": 0,
+            "danmaku": 1468
+          },
+          "state": 0,
+          "title": "⚡️零基础入门学习「仓颉」编程语言⚡️",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 623740951,
+          "bvid": "BV1it4y1R7mb",
+          "ctime": 1705112004,
+          "duration": 806,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i2.hdslb.com/bfs/archive/0ef97f6b644f2579147ae0c6a8788d2ee03f7280.jpg",
+          "playback_position": 0,
+          "pubdate": 1705112004,
+          "stat": {
+            "view": 7881,
+            "vt": 0,
+            "danmaku": 506
+          },
+          "state": 0,
+          "title": "程序员的数学课｜得数学者🉐️天下【🔥更新中】",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        }
+      ],
+      "meta": {
+        "category": 1,
+        "cover": "http://i0.hdslb.com/bfs/archive/b5ed0a8e7cadc47a25790f9d98743cb5067ac1e6.jpg",
+        "creator": "",
+        "ctime": 1630374686,
+        "description": "大部头/必看系列，鱼C论坛特供\n更多宝藏内容🎁尽在->fishc.com.cn",
+        "keywords": [
+          "双语 英语 鱼C英语 学习 程序员 AI"
+        ],
+        "last_update_ts": 1750682478,
+        "mid": 314076440,
+        "mtime": 1750682478,
+        "name": "经典课｜鱼C论坛-8",
+        "raw_keywords": "双语 英语 鱼C英语 学习 程序员 AI",
+        "series_id": 233567,
+        "state": 2,
+        "total": 35
+      },
+      "recent_aids": [
+        114732702893733,
+        1706640102,
+        1706291209,
+        1605769637,
+        1105933329,
+        623740951
+      ]
+    },
+    {
+      "archives": [
+        {
+          "aid": 113792339935542,
+          "bvid": "BV1oHrYYwEnu",
+          "ctime": 1736333554,
+          "duration": 22080,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i1.hdslb.com/bfs/archive/9afd2c808cd9555adaff77cee908daf46e6d539f.jpg",
+          "playback_position": 0,
+          "pubdate": 1736333554,
+          "stat": {
+            "view": 311407,
+            "vt": 0,
+            "danmaku": 392
+          },
+          "state": 0,
+          "title": "【Python教程】《“笨办法”学Python》第5版（2026年07月16日更新）",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 410545007,
+          "bvid": "BV1dG411B7nG",
+          "ctime": 1704028262,
+          "duration": 17149,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i1.hdslb.com/bfs/archive/610f5ce22faa18d2971cdbb5793f07e50e696319.jpg",
+          "playback_position": 0,
+          "pubdate": 1704038400,
+          "stat": {
+            "view": 85237,
+            "vt": 0,
+            "danmaku": 6462
+          },
+          "state": 0,
+          "title": "《零基础入门学习JavaScript开发》（2026年7月31日更新）",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 52080698,
+          "bvid": "BV1c4411e77t",
+          "ctime": 1557527582,
+          "duration": 63328,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i2.hdslb.com/bfs/archive/383c952565090276d1908c1f50d416d0b43c8429.jpg",
+          "playback_position": 0,
+          "pubdate": 1557527581,
+          "stat": {
+            "view": 13533054,
+            "vt": 0,
+            "danmaku": 143407
+          },
+          "state": 0,
+          "title": "【Python教程】《零基础入门学习Python》最新版（完结撒花🎉）",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 360187067,
+          "bvid": "BV1MX4y1p7ud",
+          "ctime": 1687827365,
+          "duration": 3402,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i0.hdslb.com/bfs/archive/373d00b248080e67a93a6131ab818c40f3ca4b4b.jpg",
+          "playback_position": 0,
+          "pubdate": 1687845600,
+          "stat": {
+            "view": 111890,
+            "vt": 0,
+            "danmaku": 150
+          },
+          "state": 0,
+          "title": "《数据结构和算法》考研版（2024年10月08日更新）",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 700177937,
+          "bvid": "BV12m4y1e7iY",
+          "ctime": 1687827118,
+          "duration": 2197,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i2.hdslb.com/bfs/archive/547a2454989d38c99b23afb9909675ec3d1d9036.jpg",
+          "playback_position": 0,
+          "pubdate": 1687827118,
+          "stat": {
+            "view": 83937,
+            "vt": 0,
+            "danmaku": 155
+          },
+          "state": 0,
+          "title": "《数据结构和算法》应用版（2024年08月26日更新）",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 27744141,
+          "bvid": "BV17s411N78s",
+          "ctime": 1532549854,
+          "duration": 63848,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i1.hdslb.com/bfs/archive/8fc4875fb98a2338cf5d137378c4ee4653008d12.jpg",
+          "playback_position": 0,
+          "pubdate": 1532549854,
+          "stat": {
+            "view": 8807329,
+            "vt": 0,
+            "danmaku": 130526
+          },
+          "state": 0,
+          "title": "【C语言】《带你学C带你飞》",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        }
+      ],
+      "meta": {
+        "category": 1,
+        "cover": "http://i1.hdslb.com/bfs/archive/9afd2c808cd9555adaff77cee908daf46e6d539f.jpg",
+        "creator": "",
+        "ctime": 1630374686,
+        "description": "Life is Short，Show me the Code",
+        "keywords": [
+          "小甲鱼 编程 教程 Python 程序员"
+        ],
+        "last_update_ts": 1742988888,
+        "mid": 314076440,
+        "mtime": 1742988888,
+        "name": "👍👍鱼C官方课程👍👍",
+        "raw_keywords": "小甲鱼 编程 教程 Python 程序员",
+        "series_id": 233569,
+        "state": 2,
+        "total": 37
+      },
+      "recent_aids": [
+        113792339935542,
+        410545007,
+        52080698,
+        360187067,
+        700177937,
+        27744141
+      ]
+    },
+    {
+      "archives": [],
+      "meta": {
+        "category": 2,
+        "creator": "auto",
+        "ctime": 1655435758,
+        "description": "直播回放",
+        "keywords": [
+          ""
+        ],
+        "last_update_ts": 1655446857,
+        "mid": 314076440,
+        "mtime": 1655446857,
+        "name": "直播回放",
+        "raw_keywords": "",
+        "series_id": 2381961,
+        "state": 2,
+        "total": 0
+      },
+      "recent_aids": null
+    }
+  ]
+}

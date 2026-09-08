@@ -1,0 +1,2348 @@
+{
+  "seasons": [
+    {
+      "meta": {
+        "category": 0,
+        "cover": "https://archive.biliimg.com/bfs/archive/ec5a4197a0a5811963847c7bc7e1a96fd67755c1.jpg",
+        "description": "鱼C工作室是一个专注于编程教育与技术分享的综合性学习平台，由“小甲鱼”创立。自成立以来，鱼C工作室以“让学习编程变得有趣又简单”为宗旨，致力于为零基础学习者提供系统、易懂、富有趣味性的学习体验。\n\n在鱼C工作室的平台上，用户可以免费或低成本地学习多门编程语言，包括Python、C语言、JavaScript、汇编语言等。其独创的教学风格以生动幽默、深入浅出著称，让复杂的技术知识变得轻松易懂。除视频课程外，平台还配备了大量的练习题、项目实战案例和课程笔记，帮助学习者真正掌握编程思维与实践能力。\n\n除了教学内容，鱼C工作室还运营着活跃的“鱼C论坛”，为学习者提供一个互助交流的社区空间。论坛中聚集了大量编程爱好者，他们在这里分享经验、答疑解惑、交流项目，共同成长。经过多年发展，鱼C工作室已成为中文编程学习者心中的“启蒙课堂”，也是许多人迈入程序世界的第一站。",
+        "mid": 314076440,
+        "name": "合集·鱼C官方课程",
+        "ptime": 1787830879,
+        "season_id": 6438416,
+        "total": 38,
+        "title": "鱼C官方课程"
+      },
+      "archives": [
+        {
+          "aid": 116317411675064,
+          "bvid": "BV1kPXeBAES6",
+          "ctime": 1774863327,
+          "duration": 3985,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i2.hdslb.com/bfs/archive/975a336bf218869ccd36bafebc3e051cc0b25143.jpg",
+          "playback_position": 0,
+          "pubdate": 1774863327,
+          "stat": {
+            "view": 37970,
+            "vt": 0,
+            "danmaku": 148
+          },
+          "state": 0,
+          "title": "《OpenClaw完整指南：从入门到天阶》（2026年08月13日更新）",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 117167244707844,
+          "bvid": "BV1dR496EET7",
+          "ctime": 1787830879,
+          "duration": 1082,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i2.hdslb.com/bfs/archive/c87e9c67eeb3ef839e7fc9ebc3f9e2ca7f64d10f.jpg",
+          "playback_position": 0,
+          "pubdate": 1787830879,
+          "stat": {
+            "view": 5487,
+            "vt": 0,
+            "danmaku": 1
+          },
+          "state": 0,
+          "title": "《零基础搭建个人知识库》（AnythingLLM保姆级教程）",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 52080698,
+          "bvid": "BV1c4411e77t",
+          "ctime": 1557527582,
+          "duration": 63328,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i2.hdslb.com/bfs/archive/383c952565090276d1908c1f50d416d0b43c8429.jpg",
+          "playback_position": 0,
+          "pubdate": 1557527581,
+          "stat": {
+            "view": 13533061,
+            "vt": 0,
+            "danmaku": 143407
+          },
+          "state": 0,
+          "title": "【Python教程】《零基础入门学习Python》最新版（完结撒花🎉）",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 27789609,
+          "bvid": "BV1Fs411A7HZ",
+          "ctime": 1532600708,
+          "duration": 109185,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i2.hdslb.com/bfs/archive/4fa3ded533ebbbb90df8c222ee8f5668aaab2a72.jpg",
+          "playback_position": 0,
+          "pubdate": 1532600708,
+          "stat": {
+            "view": 3571182,
+            "vt": 0,
+            "danmaku": 68059
+          },
+          "state": 0,
+          "title": "【Python教程】《零基础入门学习Python》",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 113792339935542,
+          "bvid": "BV1oHrYYwEnu",
+          "ctime": 1736333554,
+          "duration": 22080,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i1.hdslb.com/bfs/archive/9afd2c808cd9555adaff77cee908daf46e6d539f.jpg",
+          "playback_position": 0,
+          "pubdate": 1736333554,
+          "stat": {
+            "view": 311407,
+            "vt": 0,
+            "danmaku": 392
+          },
+          "state": 0,
+          "title": "【Python教程】《“笨办法”学Python》第5版（2026年07月16日更新）",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 785744954,
+          "bvid": "BV1m14y1R7Fc",
+          "ctime": 1688949286,
+          "duration": 2245,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i0.hdslb.com/bfs/archive/2e7936954cb7217bed45e80ff10e42786373c55a.jpg",
+          "playback_position": 0,
+          "pubdate": 1688949285,
+          "stat": {
+            "view": 52813,
+            "vt": 0,
+            "danmaku": 113
+          },
+          "state": 0,
+          "title": "《Python高阶模块》-- collections模块",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 397848036,
+          "bvid": "BV1Uo4y1b7kk",
+          "ctime": 1682296815,
+          "duration": 705,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i1.hdslb.com/bfs/archive/472282dac701a582b68b3f2bae3bd53c7d6fe00b.jpg",
+          "playback_position": 0,
+          "pubdate": 1682296814,
+          "stat": {
+            "view": 42225,
+            "vt": 0,
+            "danmaku": 109
+          },
+          "state": 0,
+          "title": "使用Python制作专属二维码生成器（上）",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 487418704,
+          "bvid": "BV1QN41167Ft",
+          "ctime": 1687139852,
+          "duration": 584,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i2.hdslb.com/bfs/archive/16d00fd83afa4a54b74abb4ca728aadbfef46e95.jpg",
+          "playback_position": 0,
+          "pubdate": 1687139852,
+          "stat": {
+            "view": 8183,
+            "vt": 0,
+            "danmaku": 3
+          },
+          "state": 0,
+          "title": "使用Python制作专属二维码生成器（下）",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 569652882,
+          "bvid": "BV1rv4y1n7Mf",
+          "ctime": 1680920685,
+          "duration": 704,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i1.hdslb.com/bfs/archive/75c28a9df7cb643c2d65ae433cd5172a333a45d8.jpg",
+          "playback_position": 0,
+          "pubdate": 1680920685,
+          "stat": {
+            "view": 9012,
+            "vt": 0,
+            "danmaku": 57
+          },
+          "state": 0,
+          "title": "快将你的「代码」与全世界 Python 开发者分享🦆比Github还丝滑呢",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 483475242,
+          "bvid": "BV1DT411r7W6",
+          "ctime": 1678752724,
+          "duration": 517,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i0.hdslb.com/bfs/archive/c0e1fb9ab32930e426aa54a89f7aacc0e763b260.jpg",
+          "playback_position": 0,
+          "pubdate": 1678752724,
+          "stat": {
+            "view": 8527,
+            "vt": 0,
+            "danmaku": 61
+          },
+          "state": 0,
+          "title": "火爆全球的主流图片压缩方案自动化脚本(^m^)",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 408911918,
+          "bvid": "BV1YG411S7Dt",
+          "ctime": 1701136233,
+          "duration": 792,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i0.hdslb.com/bfs/archive/bdb54f9e6e8aad9f8b27e4cbdda5c4f6ebf9c2b0.jpg",
+          "playback_position": 0,
+          "pubdate": 1701136232,
+          "stat": {
+            "view": 6781,
+            "vt": 0,
+            "danmaku": 53
+          },
+          "state": 0,
+          "title": "手把手教你开发一个AI抠图工具（命令行模式）",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 27780400,
+          "bvid": "BV1bs411N7ny",
+          "ctime": 1532593704,
+          "duration": 8149,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i2.hdslb.com/bfs/archive/66fa9d511e6f30727f25bdb33f62bcc58f005ee4.jpg",
+          "playback_position": 0,
+          "pubdate": 1532593703,
+          "stat": {
+            "view": 109107,
+            "vt": 0,
+            "danmaku": 800
+          },
+          "state": 0,
+          "title": "【Git教程】《极客Python之Git实用教程》",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 80164219,
+          "bvid": "BV1kJ41147s1",
+          "ctime": 1576976436,
+          "duration": 1410,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i0.hdslb.com/bfs/archive/13c40a15366bf537898d65f25dd77347894907c9.jpg",
+          "playback_position": 0,
+          "pubdate": 1576976427,
+          "stat": {
+            "view": 164170,
+            "vt": 0,
+            "danmaku": 593
+          },
+          "state": 0,
+          "title": "【OpenCV篇】《通过案例学习图像处理及计算机视觉开发》（小甲鱼）",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 34609030,
+          "bvid": "BV1Ub411P7g8",
+          "ctime": 1540507392,
+          "duration": 2328,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i1.hdslb.com/bfs/archive/a75b4430d2a24e5ae1a613ee9ede0507d3423371.jpg",
+          "playback_position": 0,
+          "pubdate": 1540507392,
+          "stat": {
+            "view": 144311,
+            "vt": 0,
+            "danmaku": 432
+          },
+          "state": 0,
+          "title": "【绘图篇】《极客Python之效率革命》",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 23697305,
+          "bvid": "BV1wp411o71g",
+          "ctime": 1526817612,
+          "duration": 6479,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i1.hdslb.com/bfs/archive/c125787859ec306bf2482e4cd6c9af49e98272ac.jpg",
+          "playback_position": 0,
+          "pubdate": 1526817612,
+          "stat": {
+            "view": 182515,
+            "vt": 0,
+            "danmaku": 924
+          },
+          "state": 0,
+          "title": "【办公篇】《极客Python之效率革命》",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 23695737,
+          "bvid": "BV1wp411o7dz",
+          "ctime": 1526815325,
+          "duration": 6475,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i1.hdslb.com/bfs/archive/98f32d6f8a3179540813361da06d96a17a019a65.jpg",
+          "playback_position": 0,
+          "pubdate": 1526815325,
+          "stat": {
+            "view": 272072,
+            "vt": 0,
+            "danmaku": 1530
+          },
+          "state": 0,
+          "title": "【爬虫篇】《极客Python之效率革命》",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 27744141,
+          "bvid": "BV17s411N78s",
+          "ctime": 1532549854,
+          "duration": 63848,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i1.hdslb.com/bfs/archive/8fc4875fb98a2338cf5d137378c4ee4653008d12.jpg",
+          "playback_position": 0,
+          "pubdate": 1532549854,
+          "stat": {
+            "view": 8807329,
+            "vt": 0,
+            "danmaku": 130526
+          },
+          "state": 0,
+          "title": "【C语言】《带你学C带你飞》",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 498686491,
+          "bvid": "BV1mK411n7vn",
+          "ctime": 1593623357,
+          "duration": 2457,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i0.hdslb.com/bfs/archive/0a4447f2e83722258baf120a13cbb03b633ab6f9.jpg",
+          "playback_position": 0,
+          "pubdate": 1593623357,
+          "stat": {
+            "view": 218336,
+            "vt": 0,
+            "danmaku": 389
+          },
+          "state": 0,
+          "title": "《带你学C带你飞》学习环境搭建教程",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 27732775,
+          "bvid": "BV1Ws411N7JC",
+          "ctime": 1532552604,
+          "duration": 4385,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i2.hdslb.com/bfs/archive/f331adaec7c003dd61914c87fabd3558fbe1270b.jpg",
+          "playback_position": 0,
+          "pubdate": 1532552604,
+          "stat": {
+            "view": 129239,
+            "vt": 0,
+            "danmaku": 553
+          },
+          "state": 0,
+          "title": "【VIM快速入门】《带你学C带你飞》（番外篇）",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 571981441,
+          "bvid": "BV1Pz4y1B7uZ",
+          "ctime": 1685932904,
+          "duration": 795,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i1.hdslb.com/bfs/archive/356debd675808c683ad5c93786896e23f168c60e.jpg",
+          "playback_position": 0,
+          "pubdate": 1685932903,
+          "stat": {
+            "view": 63027,
+            "vt": 0,
+            "danmaku": 156
+          },
+          "state": 0,
+          "title": "【调试篇】《带你学C带你飞》",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 28127959,
+          "bvid": "BV1Ps411w73m",
+          "ctime": 1532963909,
+          "duration": 52493,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i1.hdslb.com/bfs/archive/8f636130ee87670b91779a2fbfe8625e1bc1fba9.jpg",
+          "playback_position": 0,
+          "pubdate": 1532963909,
+          "stat": {
+            "view": 1213628,
+            "vt": 0,
+            "danmaku": 15921
+          },
+          "state": 0,
+          "title": "【C++语法】《C++快速入门》",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 21786264,
+          "bvid": "BV1QW411N762",
+          "ctime": 1523098994,
+          "duration": 53901,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i2.hdslb.com/bfs/archive/0e62a324976289def4389331609141adbdf2ee78.jpg",
+          "playback_position": 0,
+          "pubdate": 1523098993,
+          "stat": {
+            "view": 1497577,
+            "vt": 0,
+            "danmaku": 29763
+          },
+          "state": 0,
+          "title": "《零基础入门学习Web开发》（HTML5&CSS3）",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 410545007,
+          "bvid": "BV1dG411B7nG",
+          "ctime": 1704028262,
+          "duration": 17149,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i1.hdslb.com/bfs/archive/610f5ce22faa18d2971cdbb5793f07e50e696319.jpg",
+          "playback_position": 0,
+          "pubdate": 1704038400,
+          "stat": {
+            "view": 85237,
+            "vt": 0,
+            "danmaku": 6462
+          },
+          "state": 0,
+          "title": "《零基础入门学习JavaScript开发》（2026年7月31日更新）",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 360187067,
+          "bvid": "BV1MX4y1p7ud",
+          "ctime": 1687827365,
+          "duration": 3402,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i0.hdslb.com/bfs/archive/373d00b248080e67a93a6131ab818c40f3ca4b4b.jpg",
+          "playback_position": 0,
+          "pubdate": 1687845600,
+          "stat": {
+            "view": 111890,
+            "vt": 0,
+            "danmaku": 150
+          },
+          "state": 0,
+          "title": "《数据结构和算法》考研版（2024年10月08日更新）",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 700177937,
+          "bvid": "BV12m4y1e7iY",
+          "ctime": 1687827118,
+          "duration": 2197,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i2.hdslb.com/bfs/archive/547a2454989d38c99b23afb9909675ec3d1d9036.jpg",
+          "playback_position": 0,
+          "pubdate": 1687827118,
+          "stat": {
+            "view": 83937,
+            "vt": 0,
+            "danmaku": 155
+          },
+          "state": 0,
+          "title": "《数据结构和算法》应用版（2024年08月26日更新）",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 21828275,
+          "bvid": "BV1jW411K7yg",
+          "ctime": 1523177792,
+          "duration": 101379,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i0.hdslb.com/bfs/archive/80048d7a8407ff287cc6ab1f55fca50aa9f1aa65.jpg",
+          "playback_position": 0,
+          "pubdate": 1523177791,
+          "stat": {
+            "view": 3383504,
+            "vt": 0,
+            "danmaku": 67148
+          },
+          "state": 0,
+          "title": "【C语言描述】《数据结构和算法》",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 74127876,
+          "bvid": "BV1eE41187m6",
+          "ctime": 1572589463,
+          "duration": 3631,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i0.hdslb.com/bfs/archive/5f975317addf87f98412bd3afbf38ecaa27bd3cf.jpg",
+          "playback_position": 0,
+          "pubdate": 1572589463,
+          "stat": {
+            "view": 93486,
+            "vt": 0,
+            "danmaku": 267
+          },
+          "state": 0,
+          "title": "【进阶篇】《Scratch游戏开发》",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 28519518,
+          "bvid": "BV1Ks411G7WW",
+          "ctime": 1533383699,
+          "duration": 11818,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i0.hdslb.com/bfs/archive/b23d1df1be94d20433460935237b65333cb41b19.jpg",
+          "playback_position": 0,
+          "pubdate": 1533383699,
+          "stat": {
+            "view": 374395,
+            "vt": 0,
+            "danmaku": 1220
+          },
+          "state": 0,
+          "title": "【少儿编程】《零基础入门学习Scratch》",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 28047648,
+          "bvid": "BV1us411P7nL",
+          "ctime": 1532882589,
+          "duration": 20141,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i0.hdslb.com/bfs/archive/84d2c94da71dbc13ee1e11d3f8a6af12ba5716ec.jpg",
+          "playback_position": 0,
+          "pubdate": 1532882589,
+          "stat": {
+            "view": 78150,
+            "vt": 0,
+            "danmaku": 1008
+          },
+          "state": 0,
+          "title": "【系统篇】《解密系列》",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 28047055,
+          "bvid": "BV1us411P7zn",
+          "ctime": 1532882568,
+          "duration": 4483,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i2.hdslb.com/bfs/archive/53c758d7897a8671715d0442652cfb86accd13a8.jpg",
+          "playback_position": 0,
+          "pubdate": 1532882568,
+          "stat": {
+            "view": 46930,
+            "vt": 0,
+            "danmaku": 400
+          },
+          "state": 0,
+          "title": "【密码学】《解密系列》",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 28047234,
+          "bvid": "BV1us411P7yo",
+          "ctime": 1532882551,
+          "duration": 7689,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i2.hdslb.com/bfs/archive/7efcb922f711fd0b9d8b41eb48cf782d12bffed6.jpg",
+          "playback_position": 0,
+          "pubdate": 1532882551,
+          "stat": {
+            "view": 69841,
+            "vt": 0,
+            "danmaku": 338
+          },
+          "state": 0,
+          "title": "【脱壳篇】《解密系列》",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 28046265,
+          "bvid": "BV1gs411P7A1",
+          "ctime": 1532875346,
+          "duration": 37201,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i2.hdslb.com/bfs/archive/d948426f6196f131f9cbb80fc49bfd0fca89486f.jpg",
+          "playback_position": 0,
+          "pubdate": 1532875345,
+          "stat": {
+            "view": 170439,
+            "vt": 0,
+            "danmaku": 2526
+          },
+          "state": 0,
+          "title": "【调试篇】《解密系列》（OD使用教程）",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 28045290,
+          "bvid": "BV1Ts411P7RJ",
+          "ctime": 1532874875,
+          "duration": 4917,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i0.hdslb.com/bfs/archive/8af03343c09def818d1b4148a739ee0f8a7b647c.jpg",
+          "playback_position": 0,
+          "pubdate": 1532874875,
+          "stat": {
+            "view": 47806,
+            "vt": 0,
+            "danmaku": 94
+          },
+          "state": 0,
+          "title": "【工具篇】《解密系列》",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 27823573,
+          "bvid": "BV1us411A7yn",
+          "ctime": 1532633003,
+          "duration": 9489,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i0.hdslb.com/bfs/archive/238d3b24b15e32b00b4977957b0d851c5631e25c.jpg",
+          "playback_position": 0,
+          "pubdate": 1532633003,
+          "stat": {
+            "view": 94995,
+            "vt": 0,
+            "danmaku": 849
+          },
+          "state": 0,
+          "title": "【基础篇】《解密系列》",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 28141241,
+          "bvid": "BV1os411c7Sh",
+          "ctime": 1532976405,
+          "duration": 69457,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i2.hdslb.com/bfs/archive/7fe1ecc60438682872c467f0d520b408adbe8056.jpg",
+          "playback_position": 0,
+          "pubdate": 1532976405,
+          "stat": {
+            "view": 170799,
+            "vt": 0,
+            "danmaku": 1540
+          },
+          "state": 0,
+          "title": "【Win32汇编】《Win32汇编语言程序设计》",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 28132657,
+          "bvid": "BV1Rs411c7HG",
+          "ctime": 1532965610,
+          "duration": 96590,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i2.hdslb.com/bfs/archive/17b1140a598a4b4deab446530c6491e14a682ca7.jpg",
+          "playback_position": 0,
+          "pubdate": 1532965610,
+          "stat": {
+            "view": 1577713,
+            "vt": 0,
+            "danmaku": 35559
+          },
+          "state": 0,
+          "title": "【8086汇编入门】《零基础入门学习汇编语言》",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 28102794,
+          "bvid": "BV12s411c7ct",
+          "ctime": 1532945733,
+          "duration": 80167,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i0.hdslb.com/bfs/archive/07aee6d72f22206f1ca1793b8850903c05330265.jpg",
+          "playback_position": 0,
+          "pubdate": 1532945733,
+          "stat": {
+            "view": 180623,
+            "vt": 0,
+            "danmaku": 1628
+          },
+          "state": 0,
+          "title": "【Delphi7】《零基础入门学习Delphi》",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        },
+        {
+          "aid": 27823407,
+          "bvid": "BV1us411A7UE",
+          "ctime": 1532631802,
+          "duration": 55363,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i2.hdslb.com/bfs/archive/0041c450ca999a112466a89193f46709c74fd978.jpg",
+          "playback_position": 0,
+          "pubdate": 1532631801,
+          "stat": {
+            "view": 279376,
+            "vt": 0,
+            "danmaku": 3724
+          },
+          "state": 0,
+          "title": "【SDK开发】《Windows程序设计》",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        }
+      ]
+    },
+    {
+      "meta": {
+        "category": 0,
+        "cover": "https://archive.biliimg.com/bfs/archive/d75dcf9568d2ad26bb75018dafc9654bd7723926.jpg",
+        "description": "如果你已经完成了Python的入门学习，能够编写基本的脚本，但感觉自己的代码总有些“笨拙”，或者在面对更复杂的项目时感到力不从心，那么这门课程正是为你准备的。\n\n许多学习者在掌握基础后会遇到一个瓶颈期，感觉难以再进步……这是因为他们尚未触及到Python语言设计的精髓。\n\nPython之所以广受欢迎，不仅因为其语法简单，更在于其丰富而强大的进阶特性，能够让你用更少的代码完成更多的事情。",
+        "mid": 314076440,
+        "name": "合集·Python进阶语法",
+        "ptime": 1759155600,
+        "season_id": 6444164,
+        "total": 1,
+        "title": "Python进阶语法"
+      },
+      "archives": [
+        {
+          "aid": 115286938225912,
+          "bvid": "BV1QonqzhEec",
+          "ctime": 1759139389,
+          "duration": 591,
+          "enable_vt": false,
+          "interactive_video": false,
+          "pic": "http://i2.hdslb.com/bfs/archive/b979376d2a8dd6a9ba31b277fc4e0fdba9ecce75.jpg",
+          "playback_position": 0,
+          "pubdate": 1759155600,
+          "stat": {
+            "view": 15309,
+            "vt": 0,
+            "danmaku": 0
+          },
+          "state": 0,
+          "title": "结构化模式匹配（上）",
+          "ugc_pay": 0,
+          "vt_display": "",
+          "is_lesson_video": 0
+        }
+      ]
+    }
+  ],
+  "series": [
+    {
+      "meta": {
+        "category": 1,
+        "cover": "http://i0.hdslb.com/bfs/archive/b5ed0a8e7cadc47a25790f9d98743cb5067ac1e6.jpg",
+        "creator": "",
+        "ctime": 1630374686,
+        "description": "大部头/必看系列，鱼C论坛特供\n更多宝藏内容🎁尽在->fishc.com.cn",
+        "keywords": [
+          "双语 英语 鱼C英语 学习 程序员 AI"
+        ],
+        "last_update_ts": 1750682478,
+        "mid": 314076440,
+        "mtime": 1750682478,
+        "name": "经典课｜鱼C论坛-8",
+        "raw_keywords": "双语 英语 鱼C英语 学习 程序员 AI",
+        "series_id": 233567,
+        "state": 2,
+        "total": 35
+      },
+      "archives": [
+        {
+          "aid": 710189499,
+          "title": "JavaScript面向对象编程【OOP进阶专用】",
+          "pubdate": 1586688650,
+          "ctime": 1586688650,
+          "state": 0,
+          "pic": "http://i1.hdslb.com/bfs/archive/bad98c376fbb0f6de6867f77e9c61ed6a30f47c4.jpg",
+          "duration": 2420,
+          "stat": {
+            "view": 21475
+          },
+          "bvid": "BV14Q4y1K72p",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "https://www.youtube.com/watch?v=vDJpGenyHaA&t=13s\n基于 ES6 最新标准的 JavaScript 教程：BV1jE411T7ya\n和 45min (av69410469)一起食用，效果棒棒棒～\n推荐文章：cv1942081\n知识点见置顶～",
+          "upMid": 314076440
+        },
+        {
+          "aid": 69410469,
+          "title": "JavaScript-45分钟快速上车【开胃菜】",
+          "pubdate": 1569761888,
+          "ctime": 1569761888,
+          "state": 0,
+          "pic": "http://i2.hdslb.com/bfs/archive/db35dc4ddbd2665c6dff4cc76010d0bc37173225.jpg",
+          "duration": 2928,
+          "stat": {
+            "view": 40269
+          },
+          "bvid": "BV11E411R7Mp",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA\n鱼C官方《零基础入门学习JavaScript》来临前的开胃菜(^_^)\nWeb 系列【官方】：av21786264 \n油管最火 Web【翻译】：av48489320",
+          "upMid": 314076440
+        },
+        {
+          "aid": 74624265,
+          "title": "初探函数式编程【JavaScript篇】",
+          "pubdate": 1572933295,
+          "ctime": 1572933295,
+          "state": 0,
+          "pic": "http://i0.hdslb.com/bfs/archive/1c587633e653e9aa107167bd0a155be468e035d8.jpg",
+          "duration": 1490,
+          "stat": {
+            "view": 33303
+          },
+          "bvid": "BV1bE411B74p",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "https://www.youtube.com/watch?v=e-5obm1G_FY\n诞生50多年之后，函数式编程（functional programming）开始获得越来越多的关注。\n也许继\"面向对象编程\"之后，\"函数式编程\"会成为下一个编程的主流范式（paradigm），未来的程序员恐怕或多或少都必须懂一点。\n\"函数式编程\"看上去比较难，缺乏通俗的入门教程，各种介绍文章会充斥着数学符号和专用术语，让人读了如坠云雾。\n我们特找到由 AnjanaVakil 小姐姐介绍的讲座供有基础的鱼油食用",
+          "upMid": 314076440
+        },
+        {
+          "aid": 58980224,
+          "title": "特效最佳的 Python 教程【双语熟肉·完结撒花】",
+          "pubdate": 1562987178,
+          "ctime": 1562987178,
+          "state": 0,
+          "pic": "http://i1.hdslb.com/bfs/archive/be805658423b34f5fa23aeb804418cc20112ae50.jpg",
+          "duration": 13733,
+          "stat": {
+            "view": 50997
+          },
+          "bvid": "BV1et411L7eR",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-\n人生苦短，我用 Python\n兼听则明，偏信则暗\n和《零基础入门学习Python》(最新版) 相比，更喜欢谁呢｡◕‿◕｡\n不用太害怕，其实很简单\n连载【最新版】Py：av52080698\n【完结版】Py：av27789609",
+          "upMid": 314076440
+        },
+        {
+          "aid": 73007133,
+          "title": "微软官方 Python 入门教程【开眼看世界，最适合的可能就在身边】",
+          "pubdate": 1571708886,
+          "ctime": 1571708886,
+          "state": 0,
+          "pic": "http://i2.hdslb.com/bfs/archive/71828b35ee8f25ab3bfcbeca24862ed7a49e8cb0.jpg",
+          "duration": 17867,
+          "stat": {
+            "view": 288695
+          },
+          "bvid": "BV1nE41127zQ",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "https://channel9.msdn.com/\n微软针对初学者，推出了本系列，共 44 集教程\n由高级项目经理 Christopher Harrison、以及 AI Gaming 开发经理 Susan Ibach 共同讲解。\n和小甲鱼的 Python (BV1c4411e77t)相比，更喜欢谁呢？\n进阶系列：BV1WT4y137cD\n高阶系列：BV1qa4y1Y7CD",
+          "upMid": 314076440
+        },
+        {
+          "aid": 754264593,
+          "title": "【哈佛大学 || CS50】用 Python 和 JavaScript 进行 Web 开发",
+          "pubdate": 1598169777,
+          "ctime": 1598169777,
+          "state": 0,
+          "pic": "http://i0.hdslb.com/bfs/archive/686183ddbd10a0a51ba4732a8bd452dbabb2dadb.jpg",
+          "duration": 48755,
+          "stat": {
+            "view": 46955
+          },
+          "bvid": "BV1dk4y117Yv",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "cs50.harvard.edu\nCS50 是哈佛的一门计算机科学的导论性的课程，CS：computer science (计算机科学)，50 是课程代号。\n该门课程的所有資料都在网上公开，本次选取的 CS50 系列是基于 Python 和 JavaScript 进行 Web 编程，除了上面的两门编程语言外，还涉及到 React，Django，Node.js，NoSQL，Git 等语言及工具。\n本门课程由 鱼C字幕组 全体成员进行字幕翻译和校对，并按照知识点对视频进行了裁剪，方便童鞋们按需食用！",
+          "upMid": 314076440
+        },
+        {
+          "aid": 925549044,
+          "title": "微软官方 Python 进阶教程【完结撒花｜双语熟肉】",
+          "pubdate": 1588992000,
+          "ctime": 1588992001,
+          "state": 0,
+          "pic": "http://i0.hdslb.com/bfs/archive/f009c256726e6a8ae70a14b82b23a68081eebe0f.jpg",
+          "duration": 9062,
+          "stat": {
+            "view": 64281
+          },
+          "bvid": "BV1WT4y137cD",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "https://aka.ms/morepython\n该系列由微软高级项目经理 Christopher Harrison 和微软 AI 游戏部门业务开发经理 Susan Ibach 进行讲解。\n基础系列：BV1nE41127zQ\n高阶系列：BV1qa4y1Y7CD\n作为 2019 最热门的编程语言（BV1nE411k7G6），和小甲鱼的 Python 相比，更喜欢谁呢？\n连载【最新版】Py：BV1c4411e77t\n【完结版】Py：BV1Fs411A7HZ",
+          "upMid": 314076440
+        },
+        {
+          "aid": 48489320,
+          "title": "油管最火 Web 前端教程【优质双语熟肉】",
+          "pubdate": 1554545257,
+          "ctime": 1554545257,
+          "state": 0,
+          "pic": "http://i0.hdslb.com/bfs/archive/4e758694f8f3b13afc3f233a9bab97befac16a01.jpg",
+          "duration": 29665,
+          "stat": {
+            "view": 211840
+          },
+          "bvid": "BV17b41137yx",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "https://www.youtube.com/playlist?list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc\nIf you're wanting to learn web development and learn web dev fast, this is your place!\n全程由#鱼C字幕组提供技术支持和校对，欢迎鱼油检阅食用ヾ(o◕∀◕)ﾉ\nPS：顺便还可以练习英语哦\n官方 HTML5+CSS3 教程：av21786264",
+          "upMid": 314076440
+        },
+        {
+          "aid": 94944142,
+          "title": "JavaScript速成课【油管最火JS教程】",
+          "pubdate": 1583782423,
+          "ctime": 1583782423,
+          "state": 0,
+          "pic": "http://i1.hdslb.com/bfs/archive/7a9ad63c823aa11fa73d8ed0b60ba3e7c44aa1ab.jpg",
+          "duration": 6039,
+          "stat": {
+            "view": 177817
+          },
+          "bvid": "BV1jE411T7ya",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "https://www.youtube.com/watch?v=hdI2bqOjy3c\n基于 ES6 最新标准的 JavaScript 教程：基础知识、箭头函数、模板字符串...\n小甲鱼《零基础入门学习JavaScript》来临前的预习!\n和 45min (av69410469)一起食用，效果棒棒棒～\n知识点见置顶～",
+          "upMid": 314076440
+        },
+        {
+          "aid": 669993964,
+          "title": "微软官方 JavaScript 入门教程【完结撒花】",
+          "pubdate": 1602812037,
+          "ctime": 1602812037,
+          "state": 0,
+          "pic": "http://i1.hdslb.com/bfs/archive/1a212f0fc5f65d26724526e2affcc0bbf80bfd8e.jpg",
+          "duration": 16140,
+          "stat": {
+            "view": 85437
+          },
+          "bvid": "BV18a4y1L7kD",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "https://channel9.msdn.com/Series/Beginners-Series-to-JavaScript/Beginning-the-Beginners-series-1-of-51\n在整个课程中，微软帮助用户使用 Visual StudioCode 设置开发环境，将 Node.js 安装为 JavaScript Runtime 等等入门必备知识。\n进阶 Node.js：BV1kN41197vw",
+          "upMid": 314076440
+        },
+        {
+          "aid": 668617934,
+          "title": "【机器学习】微软官方 Python 高阶教程【完结撒花｜双语熟肉】",
+          "pubdate": 1592563729,
+          "ctime": 1592563729,
+          "state": 0,
+          "pic": "http://i1.hdslb.com/bfs/archive/f79146f2012b6bb6cc2791327e2de8568f7481d6.jpg",
+          "duration": 9792,
+          "stat": {
+            "view": 58083
+          },
+          "bvid": "BV1qa4y1Y7CD",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "https://channel9.msdn.com/Series/Even-More-Python-for-Beginners-Data-Tools\n微软官方教程第 3 部，共 31 集。\n带你使用 Python 进入数据科学和机器学习，会涉及到 NumPy 和 pandas 等库。\n基础系列：BV1nE41127zQ\n进阶系列：BV1WT4y137cD\n和小甲鱼的 Python （BV1c4411e77t）相比，更喜欢谁呢？",
+          "upMid": 314076440
+        },
+        {
+          "aid": 501948465,
+          "title": "微软官方 Node.js 入门教程【完结撒花·双语熟肉】",
+          "pubdate": 1614405948,
+          "ctime": 1614405948,
+          "state": 0,
+          "pic": "http://i1.hdslb.com/bfs/archive/46783a2cd3bbbf23f96b67a6f3a5a5f24093a84b.jpg",
+          "duration": 6512,
+          "stat": {
+            "view": 39091
+          },
+          "bvid": "BV1kN41197vw",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "https://aka.ms/LearnNode.js\nNode.js 是一个基于Chrome V8 引擎的JavaScript 运行环境。\nNode.js 使用了一个事件驱动、非阻塞式I/O 的模型，使其轻量又高效。\n微软官方 JavaScript 课程：BV18a4y1L7kD",
+          "upMid": 314076440
+        },
+        {
+          "aid": 672612183,
+          "title": "TypeScript 从入门到精通【持续更新中】",
+          "pubdate": 1618358418,
+          "ctime": 1618358421,
+          "state": 0,
+          "pic": "http://i0.hdslb.com/bfs/archive/a6ec1a5c98bda19323995afa64a412d620cbea93.jpg",
+          "duration": 6406,
+          "stat": {
+            "view": 18508
+          },
+          "bvid": "BV1SU4y1h7Gn",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "https://www.youtube.com/watch?v=BwuLxPH8IDs&t=40s\nTypeScript 是一种开源的编程语言，该语言项目由微软进行维护和管理。\n不仅包含 JavaScript 的语法，而且还提供了静态类型检查以及使用看起来像基于类的面向对象编程语法操作 Prototype，是为开发大型应用而设计的，并且TypeScript可转译成JavaScript，任何现有的JavaScript程序都是合法的TypeScript程序。",
+          "upMid": 314076440
+        },
+        {
+          "aid": 460881665,
+          "title": "从入门到精通 Excel 神器 — OpenPyXl【完结撒花·双语熟肉】",
+          "pubdate": 1622775573,
+          "ctime": 1622775573,
+          "state": 0,
+          "pic": "http://i2.hdslb.com/bfs/archive/fc11c2e1e13db3f4a9dde6a1353e66dab689fdb3.jpg",
+          "duration": 2458,
+          "stat": {
+            "view": 32993
+          },
+          "bvid": "BV1d5411T7Yg",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "https://www.youtube.com/watch?v=7YS6YDQKFh0\nExcel 功能强大，但在有些场景下还是不太方便！\n例如将大量数据导入到 Excel，将 Excel 中的数据读取到系统中..\n学会 openpyxl 库，一切都不是问题～\n\n官方 Python 教程： \n完结版：BV1Fs411A7HZ \n快速解读：BV1Qa4y1Y7vW \n连载中：BV1c4411e77t",
+          "upMid": 314076440
+        },
+        {
+          "aid": 465943650,
+          "title": "00-有言在先【双语熟肉】",
+          "pubdate": 1642922718,
+          "ctime": 1642922718,
+          "state": 0,
+          "pic": "http://i2.hdslb.com/bfs/archive/909aa9f61a7245b48896bc0b57bb21f296e4771b.jpg",
+          "duration": 57,
+          "stat": {
+            "view": 15546
+          },
+          "bvid": "BV1VL411F76a",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "https://www.youtube.com/watch?v=qhAAmyGnA-M&list=PLJicmE8fK0EgogMqDYMgcADT1j5b911or\n学习打包：https://fishc.com.cn/thread-208385-1-1.html\n通过动画带你了解程序员必知的概念\n下一集：BV1z34y1177k",
+          "upMid": 314076440
+        },
+        {
+          "aid": 810642560,
+          "title": "【💎大师课系列💎】零基础入门学习🍷品鉴",
+          "pubdate": 1649833464,
+          "ctime": 1649833464,
+          "state": 0,
+          "pic": "http://i2.hdslb.com/bfs/archive/f5964d693402640ae3a2cb4facc186892b3def64.png",
+          "duration": 3306,
+          "stat": {
+            "view": 4341
+          },
+          "bvid": "BV1334y1v7Lu",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "红酒笔记：https://fishc.com.cn/thread-211884-1-1.html\r\n要想生活过的去，就要活到老学到老~",
+          "upMid": 314076440
+        },
+        {
+          "aid": 891322504,
+          "title": "权威解读 Metaverse(元宇宙) 【Meta（超越）+Universe（宇宙）】",
+          "pubdate": 1635529677,
+          "ctime": 1635529677,
+          "state": 0,
+          "pic": "http://i2.hdslb.com/bfs/archive/169451b1664d088f7d256d918be802300d2fc0fa.jpg",
+          "duration": 9466,
+          "stat": {
+            "view": 74678
+          },
+          "bvid": "BV1hP4y1L7ux",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "https://www.youtube.com/watch?v=Uvufun6xer8&t=37s\n视频来自脸书20211028的最新换“脸”发布会，所谓元宇宙，最早出现在美国科幻作家Neal Stephenson创作的小说《Snow Crash》中，形容一个与现实世界平行发展的网络虚拟空间。",
+          "upMid": 314076440
+        },
+        {
+          "aid": 463874001,
+          "title": "油管爆🔥的「数据结构与算法」》课👍【完结撒花】",
+          "pubdate": 1635042314,
+          "ctime": 1635042315,
+          "state": 0,
+          "pic": "http://i1.hdslb.com/bfs/archive/435db2078ec13cbde42966d79558658dce521b5c.jpg",
+          "duration": 12156,
+          "stat": {
+            "view": 79330
+          },
+          "bvid": "BV1ML41137WG",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "应用版：BV12m4y1e7iY\n算法小讲堂：BV1HT4y1K7DY\n考研版：BV1MX4y1p7ud\n完结版：BV1jW411K7yg\n本系列创作者 YK Sugishita 可以理解为美国版的“何同学”，编程大佬中的大佬，通俗易懂，边学英语的同时边能学习数据结构与算法哦～",
+          "upMid": 314076440
+        },
+        {
+          "aid": 668662520,
+          "title": "《零基础入门学习Python》(第2版)【快速解读版】",
+          "pubdate": 1593964805,
+          "ctime": 1593946825,
+          "state": 0,
+          "pic": "http://i2.hdslb.com/bfs/archive/e909ec73d7c5393b217befbee15f4f137cc51427.jpg",
+          "duration": 13991,
+          "stat": {
+            "view": 208728
+          },
+          "bvid": "BV1Qa4y1Y7vW",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "▶配套书籍：《零基础入门学习Python》(第二版)\n▶在线购买：ilovefishc.com/books\n▶已获 @Master_lisa 授权\n▶官方教程：BV1Fs411A7HZ",
+          "upMid": 314076440
+        },
+        {
+          "aid": 891525230,
+          "title": "NVIDIA CEO 黄仁勋主题演讲| 2021 年11 月GTC",
+          "pubdate": 1636556597,
+          "ctime": 1636556597,
+          "state": 0,
+          "pic": "http://i0.hdslb.com/bfs/archive/15920d65210ec4e3961de4974f385d7413b3a215.jpg",
+          "duration": 12840,
+          "stat": {
+            "view": 17234
+          },
+          "bvid": "BV1aP4y1j75V",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "https://www.youtube.com/hashtag/gtc21\n强大的力量正在塑造着全球各行各行。借助NVIDIA加速计算，科学发现增添强效动能，计算机行业迎来崭新的前进道路，人工智能获得惊人的进步。在GTC 2021主题演讲的开篇，NVIDIA创始人兼首席执行官黄仁勋将NVIDIA定义为全栈计算平台公司。\n元宇宙：BV1hP4y1L7ux",
+          "upMid": 314076440
+        },
+        {
+          "aid": 937263147,
+          "title": "零基础入门学习Go开发【😚连载中】",
+          "pubdate": 1647355144,
+          "ctime": 1647355145,
+          "state": 0,
+          "pic": "http://i2.hdslb.com/bfs/archive/1e043c152765620fece0b195dc44b05ae73a65fb.png",
+          "duration": 28440,
+          "stat": {
+            "view": 25372
+          },
+          "bvid": "BV1sT4y1U7WQ",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "ilovefishc.com\n由鱼C字幕组进行翻译整理切分，每周 2-3 更~\n下载：https://fishc.com.cn/thread-210373-1-1.html\n在线编译：https://go.dev/play/",
+          "upMid": 314076440
+        },
+        {
+          "aid": 899079385,
+          "title": "带你学Pygame带你飞🤙【VSCode/双语视频版】",
+          "pubdate": 1659531892,
+          "ctime": 1659531892,
+          "state": 0,
+          "pic": "http://i1.hdslb.com/bfs/archive/bd1cc486354aee29f396b9db6c88aed53a41f3ee.png",
+          "duration": 6911,
+          "stat": {
+            "view": 22645
+          },
+          "bvid": "BV1XN4y1L7HG",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "https://fishc.com.cn/thread-216125-1-1.html\n?源码及素材?\n完结版 Python：BV1Fs411A7HZ\n算法：BV1HT4y1K7DY",
+          "upMid": 314076440
+        },
+        {
+          "aid": 858958523,
+          "title": "零基础入门学习C#开发『微软官方课』",
+          "pubdate": 1665314627,
+          "ctime": 1665314627,
+          "state": 0,
+          "pic": "http://i0.hdslb.com/bfs/archive/6dc895c6de5ea3671cb8c788201f2ad36535a6ec.jpg",
+          "duration": 8533,
+          "stat": {
+            "view": 82543
+          },
+          "bvid": "BV1hV4y1L785",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "https://fishc.com.cn/thread-218883-1-1.html\n⬆️源码+教程⬆️\nC#（读作“See Sharp”）是一种新式编程语言，不仅面向对象，还类型安全。本教程概述了 C# 8 及更高版本中该语言的主要组件。\n更多三连，更快更新👍\nWeb课程：BV1QW411N762",
+          "upMid": 314076440
+        },
+        {
+          "aid": 779059903,
+          "title": "零基础入门学习MySQL👍VSCode👍Win/Mac",
+          "pubdate": 1675934823,
+          "ctime": 1675934823,
+          "state": 0,
+          "pic": "http://i2.hdslb.com/bfs/archive/586a75f4493d494ebf4ba3ff2e0d811e69b4c233.jpg",
+          "duration": 1249,
+          "stat": {
+            "view": 30122
+          },
+          "bvid": "BV1zy4y1Q719",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "https://fishc.com.cn/thread-224196-1-1.html\n👆配套资源👆\nPython：BV1c4411e77t\nWeb：BV1QW411N762\nC：BV17s411N78s\n算法：BV1HT4y1K7DY",
+          "upMid": 314076440
+        },
+        {
+          "aid": 267825034,
+          "title": "零基础入门学习『Rust』通用/编译型编程语言",
+          "pubdate": 1677639665,
+          "ctime": 1677639665,
+          "state": 0,
+          "pic": "http://i2.hdslb.com/bfs/archive/9800ac17b774d06e13c99059408e7c980568d2ee.jpg",
+          "duration": 3250,
+          "stat": {
+            "view": 15920
+          },
+          "bvid": "BV1cY411k7Ua",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "https://fishc.com.cn/thread-225049-1-1.html\n⬆️配套资源⬆️\nBV19N4y1K7rw\n推荐：BV1c4411e77t\nBV1HT4y1K7DY\nBV17s411N78s\nBV1QW411N762",
+          "upMid": 314076440
+        },
+        {
+          "aid": 310654739,
+          "title": "零基础入门学习Midjourney",
+          "pubdate": 1678422067,
+          "ctime": 1678422067,
+          "state": 0,
+          "pic": "http://i0.hdslb.com/bfs/archive/3eae2230502114447522ff2f57ad053ec9fe571e.jpg",
+          "duration": 447,
+          "stat": {
+            "view": 16172
+          },
+          "bvid": "BV1JP411f7Mq",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "领关键词：https://fishc.com.cn/thread-225449-1-1.html\n推荐：BV14v4y1e7ik\nBV1jM4y1d7u3",
+          "upMid": 314076440
+        },
+        {
+          "aid": 281494651,
+          "title": "微软官方⚡️零基础入门学习「生成式AI」⚡️12节连载中",
+          "pubdate": 1701052903,
+          "ctime": 1701052903,
+          "state": 0,
+          "pic": "http://i1.hdslb.com/bfs/archive/3bc89b77a3a486e05c78a451a3f9d2b383552188.jpg",
+          "duration": 1428,
+          "stat": {
+            "view": 5072
+          },
+          "bvid": "BV1kc411z7xQ",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "https://fishc.com.cn/thread-236980-1-1.html\n⬆️素材｜重点整理⬆️\n\n免费用GPT4👍BV13c411i7TT\n\n面向初学者的生成式 AI 课程 - 由微软云倡导者提供的12课全面教程\n\n在整个课程中，你将创建自己的生成式AI创业项目，以便了解实现你的想法所需的步骤。\n\n开始入门\n\n首先，将这个完整的仓库fork到你的GitHub账户中，以便更改任何代码并完成挑战。你也可以star这个仓库，以便以后更容易找到。\n\n以下是每节课的链接。随意探索，并从最感兴趣的课程",
+          "upMid": 314076440
+        },
+        {
+          "aid": 750629550,
+          "title": "1994年「C++之父」亲授的入门课程《C++的设计》👍【看者必变强】",
+          "pubdate": 1704250277,
+          "ctime": 1704250277,
+          "state": 0,
+          "pic": "http://i0.hdslb.com/bfs/archive/2b10608059d9b252ee34c004fcbd96004f6e675b.jpg",
+          "duration": 4511,
+          "stat": {
+            "view": 58279
+          },
+          "bvid": "BV1oC4y1N7Pu",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "超级好用的🆓AI助手：BV13c411i7TT\n\n比雅尼·斯特劳斯特鲁普（丹麦语：Bjarne Stroustrup]，1950年12月30日—），生于丹麦奥胡斯县，计算机科学家。他以创造C++编程语言而闻名，被称为“C++之父”。\n\n鱼C官方C++课程：BV1Ps411w73m\n\n00:01 C++入门介绍\n02:11 C++的发展历程\n04:05 强类型检查对我的帮助\n作者在编程语言发展中的经历,包括他对语言的特性、编程组织和设计的思考。\n06:57 设计思想和目标：BCPL和SEE的优点和缺点，以及",
+          "upMid": 314076440
+        },
+        {
+          "aid": 537658662,
+          "title": "巴啦啦能量 呼尼拉 魔仙变身 Stable Diffusion 等工具的成果“试验田”",
+          "pubdate": 1703396268,
+          "ctime": 1703396269,
+          "state": 0,
+          "pic": "http://i1.hdslb.com/bfs/archive/24a2394de8097c90794d13e6fea31cfc676dfd82.jpg",
+          "duration": 297,
+          "stat": {
+            "view": 57166
+          },
+          "bvid": "BV1mi4y187mc",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "流程：\n1：找到小姐姐跳舞视频并下载\n2：使用SD脚本等软件进行逐帧渲染\n3：使用SD将图片合成视频\n4：AI补帧\n\n白嫖Ai助理：BV13c411i7TT",
+          "upMid": 314076440
+        },
+        {
+          "aid": 623740951,
+          "title": "程序员的数学课｜得数学者🉐️天下【🔥更新中】",
+          "pubdate": 1705112004,
+          "ctime": 1705112004,
+          "state": 0,
+          "pic": "http://i2.hdslb.com/bfs/archive/0ef97f6b644f2579147ae0c6a8788d2ee03f7280.jpg",
+          "duration": 806,
+          "stat": {
+            "view": 7881
+          },
+          "bvid": "BV1it4y1R7mb",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "https://fishc.com.cn/thread-238931-1-1.html\n⬆️文案/讲义素材⬆️\n\n掌握数学对于编程至关重要，而「程序员的数学」视频课程正是为此而设计。\n（推荐一门算法课：BV1HT4y1K7DY）\n\n它深入浅出地介绍了数学概念如何在算法和软件开发中应用，帮助开发者提升解决问题的能力。\n\n无论是新手还是有经验的程序员，都能从中获益，学习如何利用数学逻辑优化代码并创造高效算法。\n\n这不仅仅是一堂课程，而是通向编程精粹的桥梁。",
+          "upMid": 314076440
+        },
+        {
+          "aid": 1105933329,
+          "title": "⚡️零基础入门学习「仓颉」编程语言⚡️",
+          "pubdate": 1719217971,
+          "ctime": 1719217971,
+          "state": 0,
+          "pic": "http://i1.hdslb.com/bfs/archive/dce312ce415b2be83be867fbba0b07cae3e501bc.jpg",
+          "duration": 3066,
+          "stat": {
+            "view": 156371
+          },
+          "bvid": "BV12w4m1e79z",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "https://www.bilibili.com/video/BV1BJ41157PJ\n课件&源码：https://fishc.com.cn/thread-243823-1-1.html\n\n仓颉编程语言作为一款面向全场景应用开发的现代编程语言，通过现代语言特性的集成、全方位的编译优化和运行时实现、以及开箱即用的 IDE 工具链支持，为开发者打造友好开发体验和卓越程序性能。\n\n官方Python课程：BV1c4411e77t\n数据结构与算法：BV12m4y1e7iY\n趣味学算法：BV1HT4y1K7DY\nWe",
+          "upMid": 314076440
+        },
+        {
+          "aid": 1605769637,
+          "title": "⚡️零基础入门学习Midjourney⚡️看了就能掌握AI时代的图片创作神器 | 官方权威版【更新中】",
+          "pubdate": 1719587376,
+          "ctime": 1719587377,
+          "state": 0,
+          "pic": "http://i1.hdslb.com/bfs/archive/885d252486a324ff30b06d64fb58fd9b4aa51464.jpg",
+          "duration": 3442,
+          "stat": {
+            "view": 30009
+          },
+          "bvid": "BV1ym421V7Hr",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "Midjourney是一个由位于美国加州旧金山的同名研究实验室开发之人工智能程序，可根据文本生成图像，于2022年7月12日进入公开测试阶段，用户可透过Discord的机器人指令进行操作。该研究实验室由Leap Motion的创办人大卫·霍尔兹负责领导。\n\n白嫖「AI GPT5.0 turbo大模型编程/论文/聊天」工具 >> BV13c411i7TT\n宝藏学习「IT/科技/计算机/升学/就业/人文/财经」 >> BV1BJ41157PJ\n小甲鱼AI编程课 >> BV1Gy6WYaEhD\n小甲鱼AI视频课",
+          "upMid": 314076440
+        },
+        {
+          "aid": 1706291209,
+          "title": "「成功」的原则｜从牛马->百万富翁->身无分文->千万富翁的㊙️",
+          "pubdate": 1722862418,
+          "ctime": 1722862419,
+          "state": 0,
+          "pic": "http://i2.hdslb.com/bfs/archive/8b0fd48610049b11710bef8fcb115ba7378678cf.jpg",
+          "duration": 1913,
+          "stat": {
+            "view": 6458
+          },
+          "bvid": "BV1XT421k7E4",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "https://www.bilibili.com/video/BV1BJ41157PJ\n官方Python课程：BV1c4411e77t\n数据结构与算法：BV12m4y1e7iY\n趣味学算法：BV1HT4y1K7DY\nWeb课程：BV1QW411N762\nJavaScript课程：BV1dG411B7nG\nC语言课程：BV17s411N78s\nMidjourney：BV1ym421V7Hr\n\n在这部30分钟的超迷你系列中，一位成功人士揭示了他的生活原则，分享如何从错误中学习并形成原则。这一系列课程中的每一集",
+          "upMid": 314076440
+        },
+        {
+          "aid": 1706640102,
+          "title": "尝试拿捏🤏🏻《黑神话：悟空》所有隐藏任务｜通关秘籍㊙️欢迎大神补充",
+          "pubdate": 1724296479,
+          "ctime": 1724296479,
+          "state": 0,
+          "pic": "http://i1.hdslb.com/bfs/archive/32ae436a1effbe17dc1f549c8b981676053d9f49.jpg",
+          "duration": 1055,
+          "stat": {
+            "view": 31142
+          },
+          "bvid": "BV17T421z7Ge",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "宝藏学习「IT/科技/计算机/升学/就业/人文/财经」 >> BV1BJ41157PJ\n黑神话4h珍藏版剧情：BV1Qy411v7t6\n\n《黑神话：悟空》是一款以中国神话为背景的动作角色扮演游戏。你将扮演一位“天命人”，为了探寻昔日传说的真相，踏上一条充满危险与惊奇的西游之路。\n\nBV1g1421t7KF",
+          "upMid": 314076440
+        },
+        {
+          "aid": 114732702893733,
+          "title": "「机器学习」零基础入门学习❗️经典中的经典·MIT大佬Steve Brunton",
+          "pubdate": 1750682407,
+          "ctime": 1750682407,
+          "state": 0,
+          "pic": "http://i0.hdslb.com/bfs/archive/b5ed0a8e7cadc47a25790f9d98743cb5067ac1e6.jpg",
+          "duration": 1743,
+          "stat": {
+            "view": 7806
+          },
+          "bvid": "BV1ymKazwE5d",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "https://www.bilibili.com/video/BV1BJ41157PJ\n学习机器学习可按“基石-框架-实战”三步走：先夯实高等数学、线性代数与概率统计，并用 Python 熟练实现基础算法；\n\n白嫖「AI GPT5.0 turbo大模型编程/论文/聊天」工具 >> BV13c411i7TT\n宝藏学习「IT/科技/计算机/升学/就业/人文/财经」 >> BV1BJ41157PJ\n小甲鱼AI编程课 >> BV1Gy6WYaEhD\n小甲鱼AI视频课 >> BV1QU411U7fp\n\n掌握监督学习",
+          "upMid": 314076440
+        }
+      ]
+    },
+    {
+      "meta": {
+        "category": 1,
+        "cover": "http://i1.hdslb.com/bfs/archive/9afd2c808cd9555adaff77cee908daf46e6d539f.jpg",
+        "creator": "",
+        "ctime": 1630374686,
+        "description": "Life is Short，Show me the Code",
+        "keywords": [
+          "小甲鱼 编程 教程 Python 程序员"
+        ],
+        "last_update_ts": 1742988888,
+        "mid": 314076440,
+        "mtime": 1742988888,
+        "name": "👍👍鱼C官方课程👍👍",
+        "raw_keywords": "小甲鱼 编程 教程 Python 程序员",
+        "series_id": 233569,
+        "state": 2,
+        "total": 37
+      },
+      "archives": [
+        {
+          "aid": 798702775,
+          "title": "小甲鱼的学习路【弹指一挥间·听懂掌声】",
+          "pubdate": 1611127239,
+          "ctime": 1611127239,
+          "state": 0,
+          "pic": "http://i2.hdslb.com/bfs/archive/0666dcadc3c70b7bb1dda6ce25a334fd1d7e293f.jpg",
+          "duration": 1087,
+          "stat": {
+            "view": 73548
+          },
+          "bvid": "BV18y4y1m7SZ",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "视频虽老，但理念不过时‍✿ヽ(°▽°)ノ✿\n想变强吗？除了坚持，还要选择一条最适合自己的编程路～\n请把“爷青回”打在弹幕上，谢谢～",
+          "upMid": 314076440
+        },
+        {
+          "aid": 928713015,
+          "title": "编程初学者的救赎【考古系列】",
+          "pubdate": 1610620119,
+          "ctime": 1610620119,
+          "state": 0,
+          "pic": "http://i0.hdslb.com/bfs/archive/667e9cf0b9706a8a1f034908843bf72d8b0c164e.jpg",
+          "duration": 1580,
+          "stat": {
+            "view": 31871
+          },
+          "bvid": "BV1LT4y1K7pn",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "视频虽老，但理念不过时‍✿ヽ(°▽°)ノ✿\n情怀，路遥知马力...\n请把“爷青回”打在弹幕上，谢谢～",
+          "upMid": 314076440
+        },
+        {
+          "aid": 466688711,
+          "title": "小甲鱼用了2个奥特曼，跟邻居家的小孩换来这个",
+          "pubdate": 1645406528,
+          "ctime": 1645406528,
+          "state": 0,
+          "pic": "http://i2.hdslb.com/bfs/archive/07202777d1d9922808bf02c88203c5267604a373.jpg",
+          "duration": 389,
+          "stat": {
+            "view": 12216
+          },
+          "bvid": "BV1yL411K7aC",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "课程番外：BV1c4411e77t",
+          "upMid": 314076440
+        },
+        {
+          "aid": 594763643,
+          "title": "为了讲好Web开发，小甲鱼迎男而上差点和肌肉硬汉打起来！！",
+          "pubdate": 1647598102,
+          "ctime": 1647598102,
+          "state": 0,
+          "pic": "http://i1.hdslb.com/bfs/archive/d8f9d996c040be11a25de3b5d842b4d1cb8818ea.jpg",
+          "duration": 1209,
+          "stat": {
+            "view": 27468
+          },
+          "bvid": "BV1Xq4y1i7q9",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "Web课程：BV1QW411N762\n戳想要领福利：https://b23.tv/3yWROxQ",
+          "upMid": 314076440
+        },
+        {
+          "aid": 93394440,
+          "title": "【后端开发】10分钟教你从0搭建一台专属“云服务器”",
+          "pubdate": 1583253835,
+          "ctime": 1583253835,
+          "state": 0,
+          "pic": "http://i1.hdslb.com/bfs/archive/68f99e52a42ddc70fc48197f290fc16a63933989.jpg",
+          "duration": 1102,
+          "stat": {
+            "view": 68357
+          },
+          "bvid": "BV1VE41147jU",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "快来搭建一台属于自己的专属云服务器吧？！\n本视频教程所需的工具及命令 -> https://fishc.com.cn/thread-158883-1-1.html",
+          "upMid": 314076440
+        },
+        {
+          "aid": 28047648,
+          "title": "【系统篇】《解密系列》",
+          "pubdate": 1532882589,
+          "ctime": 1532882589,
+          "state": 0,
+          "pic": "http://i0.hdslb.com/bfs/archive/84d2c94da71dbc13ee1e11d3f8a6af12ba5716ec.jpg",
+          "duration": 20141,
+          "stat": {
+            "view": 78150
+          },
+          "bvid": "BV1us411P7nL",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "upMid": 314076440
+        },
+        {
+          "aid": 28047055,
+          "title": "【密码学】《解密系列》",
+          "pubdate": 1532882568,
+          "ctime": 1532882568,
+          "state": 0,
+          "pic": "http://i2.hdslb.com/bfs/archive/53c758d7897a8671715d0442652cfb86accd13a8.jpg",
+          "duration": 4483,
+          "stat": {
+            "view": 46930
+          },
+          "bvid": "BV1us411P7zn",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "upMid": 314076440
+        },
+        {
+          "aid": 28047234,
+          "title": "【脱壳篇】《解密系列》",
+          "pubdate": 1532882551,
+          "ctime": 1532882551,
+          "state": 0,
+          "pic": "http://i2.hdslb.com/bfs/archive/7efcb922f711fd0b9d8b41eb48cf782d12bffed6.jpg",
+          "duration": 7689,
+          "stat": {
+            "view": 69841
+          },
+          "bvid": "BV1us411P7yo",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "upMid": 314076440
+        },
+        {
+          "aid": 28046265,
+          "title": "【调试篇】《解密系列》（OD使用教程）",
+          "pubdate": 1532875345,
+          "ctime": 1532875346,
+          "state": 0,
+          "pic": "http://i2.hdslb.com/bfs/archive/d948426f6196f131f9cbb80fc49bfd0fca89486f.jpg",
+          "duration": 37201,
+          "stat": {
+            "view": 170439
+          },
+          "bvid": "BV1gs411P7A1",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "upMid": 314076440
+        },
+        {
+          "aid": 28045290,
+          "title": "【工具篇】《解密系列》",
+          "pubdate": 1532874875,
+          "ctime": 1532874875,
+          "state": 0,
+          "pic": "http://i0.hdslb.com/bfs/archive/8af03343c09def818d1b4148a739ee0f8a7b647c.jpg",
+          "duration": 4917,
+          "stat": {
+            "view": 47806
+          },
+          "bvid": "BV1Ts411P7RJ",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "upMid": 314076440
+        },
+        {
+          "aid": 27823573,
+          "title": "【基础篇】《解密系列》",
+          "pubdate": 1532633003,
+          "ctime": 1532633003,
+          "state": 0,
+          "pic": "http://i0.hdslb.com/bfs/archive/238d3b24b15e32b00b4977957b0d851c5631e25c.jpg",
+          "duration": 9489,
+          "stat": {
+            "view": 94995
+          },
+          "bvid": "BV1us411A7yn",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "upMid": 314076440
+        },
+        {
+          "aid": 28102794,
+          "title": "【Delphi7】《零基础入门学习Delphi》",
+          "pubdate": 1532945733,
+          "ctime": 1532945733,
+          "state": 0,
+          "pic": "http://i0.hdslb.com/bfs/archive/07aee6d72f22206f1ca1793b8850903c05330265.jpg",
+          "duration": 80167,
+          "stat": {
+            "view": 180623
+          },
+          "bvid": "BV12s411c7ct",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "upMid": 314076440
+        },
+        {
+          "aid": 28127959,
+          "title": "【C++语法】《C++快速入门》",
+          "pubdate": 1532963909,
+          "ctime": 1532963909,
+          "state": 0,
+          "pic": "http://i1.hdslb.com/bfs/archive/8f636130ee87670b91779a2fbfe8625e1bc1fba9.jpg",
+          "duration": 52493,
+          "stat": {
+            "view": 1213628
+          },
+          "bvid": "BV1Ps411w73m",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "upMid": 314076440
+        },
+        {
+          "aid": 28141241,
+          "title": "【Win32汇编】《Win32汇编语言程序设计》",
+          "pubdate": 1532976405,
+          "ctime": 1532976405,
+          "state": 0,
+          "pic": "http://i2.hdslb.com/bfs/archive/7fe1ecc60438682872c467f0d520b408adbe8056.jpg",
+          "duration": 69457,
+          "stat": {
+            "view": 170799
+          },
+          "bvid": "BV1os411c7Sh",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "upMid": 314076440
+        },
+        {
+          "aid": 28132657,
+          "title": "【8086汇编入门】《零基础入门学习汇编语言》",
+          "pubdate": 1532965610,
+          "ctime": 1532965610,
+          "state": 0,
+          "pic": "http://i2.hdslb.com/bfs/archive/17b1140a598a4b4deab446530c6491e14a682ca7.jpg",
+          "duration": 96590,
+          "stat": {
+            "view": 1577713
+          },
+          "bvid": "BV1Rs411c7HG",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "upMid": 314076440
+        },
+        {
+          "aid": 27823407,
+          "title": "【SDK开发】《Windows程序设计》",
+          "pubdate": 1532631801,
+          "ctime": 1532631802,
+          "state": 0,
+          "pic": "http://i2.hdslb.com/bfs/archive/0041c450ca999a112466a89193f46709c74fd978.jpg",
+          "duration": 55363,
+          "stat": {
+            "view": 279376
+          },
+          "bvid": "BV1us411A7UE",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "upMid": 314076440
+        },
+        {
+          "aid": 27780400,
+          "title": "【Git教程】《极客Python之Git实用教程》",
+          "pubdate": 1532593703,
+          "ctime": 1532593704,
+          "state": 0,
+          "pic": "http://i2.hdslb.com/bfs/archive/66fa9d511e6f30727f25bdb33f62bcc58f005ee4.jpg",
+          "duration": 8149,
+          "stat": {
+            "view": 109107
+          },
+          "bvid": "BV1bs411N7ny",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "很多朋友可能还没有听说过Git，甚至不知道版本控制系统是个什么玩意儿，这很正常，因为我们之前写的很多代码都几乎是玩具代码。\n\n就是你一开始就是写着玩的, 可能就一个想法, 但是呢写着写着最后变成了一坨……非常dirty的代码了，想要改进，无从下手，想要重写，心有不甘……这时候，你应该意识到：真的需要一个版本控制系统了。\n\n因为版本控制系统事实上就是帮你将程序的开发过程，分步骤地给记录起来，可以回滚到以前任何一个版本。",
+          "upMid": 314076440
+        },
+        {
+          "aid": 34609030,
+          "title": "【绘图篇】《极客Python之效率革命》",
+          "pubdate": 1540507392,
+          "ctime": 1540507392,
+          "state": 0,
+          "pic": "http://i1.hdslb.com/bfs/archive/a75b4430d2a24e5ae1a613ee9ede0507d3423371.jpg",
+          "duration": 2328,
+          "stat": {
+            "view": 144311
+          },
+          "bvid": "BV1Ub411P7g8",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "《极客Python之效率革命》每一节课都是案例^_^",
+          "upMid": 314076440
+        },
+        {
+          "aid": 80164219,
+          "title": "【OpenCV篇】《通过案例学习图像处理及计算机视觉开发》（小甲鱼）",
+          "pubdate": 1576976427,
+          "ctime": 1576976436,
+          "state": 0,
+          "pic": "http://i0.hdslb.com/bfs/archive/13c40a15366bf537898d65f25dd77347894907c9.jpg",
+          "duration": 1410,
+          "stat": {
+            "view": 164170
+          },
+          "bvid": "BV1kJ41147s1",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "《极客Python之效率革命》计算机视觉篇，本系列教程主要通过案例学习图像处理及计算机视觉开发。\n\n本系列课程没有必然的前后关系（除非特别强调），因此你可以选择任意一节喜欢的案例并开始学习！",
+          "upMid": 314076440
+        },
+        {
+          "aid": 23695737,
+          "title": "【爬虫篇】《极客Python之效率革命》",
+          "pubdate": 1526815325,
+          "ctime": 1526815325,
+          "state": 0,
+          "pic": "http://i1.hdslb.com/bfs/archive/98f32d6f8a3179540813361da06d96a17a019a65.jpg",
+          "duration": 6475,
+          "stat": {
+            "view": 272072
+          },
+          "bvid": "BV1wp411o7dz",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "《极客Python之效率革命》爬虫篇，本系列主要讲解各类Python爬虫的编写。\n\n本系列课程没有必然的前后关系（除非特别强调），因此你可以选择任意一节喜欢的案例并开始学习！",
+          "upMid": 314076440
+        },
+        {
+          "aid": 928765493,
+          "title": "用算法解决日常问题【Zero to Hero】算法小讲堂👍",
+          "pubdate": 1611657463,
+          "ctime": 1611657463,
+          "state": 0,
+          "pic": "http://i2.hdslb.com/bfs/archive/64ef9afe54a9679f59b692d39589c185270ef6c9.jpg",
+          "duration": 21503,
+          "stat": {
+            "view": 625565
+          },
+          "bvid": "BV1HT4y1K7DY",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "主营内容：Python小妙招、实用语法解析、程序设计...\n手把手带你撸代码，学编程，请前排的童鞋主动来擦黑板~\n源码下载：https://reurl.cc/OX4GZ3\nToken出海时代红利 >> BV1SrjT6LEy2\nPython算法课 >> BV1HT4y1K7D\nAI千问教程 >> BV1JzUYB1Eu\n帮粉丝宝子装机 >> BV1DQ5y6jEu\n电脑装机教程 >> BV1ZBcXzcEk\nCoze智能体课程 >> BV1K71yBUEoBsiZY\n\n配套教材通过由浅入深的 39 个 P",
+          "upMid": 480800563
+        },
+        {
+          "aid": 27732775,
+          "title": "【VIM快速入门】《带你学C带你飞》（番外篇）",
+          "pubdate": 1532552604,
+          "ctime": 1532552604,
+          "state": 0,
+          "pic": "http://i2.hdslb.com/bfs/archive/f331adaec7c003dd61914c87fabd3558fbe1270b.jpg",
+          "duration": 4385,
+          "stat": {
+            "view": 129239
+          },
+          "bvid": "BV1Ws411N7JC",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "【关联课程】\n《带你学C带你飞》系列课程：BV17s411N78s\n《带你学C带你飞》学习环境搭建教程：BV1mK411n7vn",
+          "upMid": 314076440
+        },
+        {
+          "aid": 27789609,
+          "title": "【Python教程】《零基础入门学习Python》",
+          "pubdate": 1532600708,
+          "ctime": 1532600708,
+          "state": 0,
+          "pic": "http://i2.hdslb.com/bfs/archive/4fa3ded533ebbbb90df8c222ee8f5668aaab2a72.jpg",
+          "duration": 109185,
+          "stat": {
+            "view": 3571182
+          },
+          "bvid": "BV1Fs411A7HZ",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "Python除了不能生孩子，其他的都能干！\n快跟小甲鱼一起来学习Python吧^_^\n人生苦短，我学Python~\n算法：BV1HT4y1K7DY\n最新版：BV1c4411e77t",
+          "upMid": 314076440
+        },
+        {
+          "aid": 571981441,
+          "title": "【调试篇】《带你学C带你飞》",
+          "pubdate": 1685932903,
+          "ctime": 1685932904,
+          "state": 0,
+          "pic": "http://i1.hdslb.com/bfs/archive/356debd675808c683ad5c93786896e23f168c60e.jpg",
+          "duration": 795,
+          "stat": {
+            "view": 63027
+          },
+          "bvid": "BV1Pz4y1B7uZ",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "这个教程主要是围绕着C语言「调试」来讲解，可牛X了，快来学习吧！ \n>>> 配套资源 <<< \n《带你学C带你飞》基础课：BV17s411N78s\n《带你学C带你飞》学习环境搭建教程：BV1mK411n7vn",
+          "upMid": 314076440
+        },
+        {
+          "aid": 498686491,
+          "title": "《带你学C带你飞》学习环境搭建教程",
+          "pubdate": 1593623357,
+          "ctime": 1593623357,
+          "state": 0,
+          "pic": "http://i0.hdslb.com/bfs/archive/0a4447f2e83722258baf120a13cbb03b633ab6f9.jpg",
+          "duration": 2457,
+          "stat": {
+            "view": 218336
+          },
+          "bvid": "BV1mK411n7vn",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "【关联课程】\n《带你学C带你飞》系列课程：BV17s411N78s\n《VIM快速入门》系列课程：BV1Ws411N7JC",
+          "upMid": 314076440
+        },
+        {
+          "aid": 74127876,
+          "title": "【进阶篇】《Scratch游戏开发》",
+          "pubdate": 1572589463,
+          "ctime": 1572589463,
+          "state": 0,
+          "pic": "http://i0.hdslb.com/bfs/archive/5f975317addf87f98412bd3afbf38ecaa27bd3cf.jpg",
+          "duration": 3631,
+          "stat": {
+            "view": 93486
+          },
+          "bvid": "BV1eE41187m6",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "学会了 Scratch 的基本语法（av28519518）之后是不是摩拳擦掌，跃跃欲试了呢？\n来吧，让我们推开 Scratch 游戏开发的大门吧！",
+          "upMid": 314076440
+        },
+        {
+          "aid": 23697305,
+          "title": "【办公篇】《极客Python之效率革命》",
+          "pubdate": 1526817612,
+          "ctime": 1526817612,
+          "state": 0,
+          "pic": "http://i1.hdslb.com/bfs/archive/c125787859ec306bf2482e4cd6c9af49e98272ac.jpg",
+          "duration": 6479,
+          "stat": {
+            "view": 182515
+          },
+          "bvid": "BV1wp411o71g",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "对职场人而言，掌握Excel，其实是在解放自己；对企业家而言，了解Excel，其实是在赢得先机；而对于程序员来说，巧妙地利用好Excel，往往能够起到事半功倍的效果。\n\n本系列课程没有必然的前后关系（除非特别强调），因此你可以选择任意一节喜欢的案例并开始学习！",
+          "upMid": 314076440
+        },
+        {
+          "aid": 28519518,
+          "title": "【少儿编程】《零基础入门学习Scratch》",
+          "pubdate": 1533383699,
+          "ctime": 1533383699,
+          "state": 0,
+          "pic": "http://i0.hdslb.com/bfs/archive/b23d1df1be94d20433460935237b65333cb41b19.jpg",
+          "duration": 11818,
+          "stat": {
+            "view": 374395
+          },
+          "bvid": "BV1Ks411G7WW",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "和孩子共度美好的编程编程时光吧ε٩(๑> ₃ <)۶з\n进阶篇：BV1eE41187m6\n配套教材：ilovefishc.com/books",
+          "upMid": 314076440
+        },
+        {
+          "aid": 21828275,
+          "title": "【C语言描述】《数据结构和算法》",
+          "pubdate": 1523177791,
+          "ctime": 1523177792,
+          "state": 0,
+          "pic": "http://i0.hdslb.com/bfs/archive/80048d7a8407ff287cc6ab1f55fca50aa9f1aa65.jpg",
+          "duration": 101379,
+          "stat": {
+            "view": 3383504
+          },
+          "bvid": "BV1jW411K7yg",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "数据结构和算法这门计算机必修课历来无论在哪个学校，都是无比乏味和催人入睡的。\n\n但是，小甲鱼决定要投入大量的精力来将这门课程打造成有屎以来最为华丽的，最为欢乐地，最为图文并茂的课\n程！\n\n数据结构与算法-应用篇：BV12m4y1e7iY\n数据结构与算法-考研篇：BV1MX4y1p7ud",
+          "upMid": 314076440
+        },
+        {
+          "aid": 785744954,
+          "title": "《Python高阶模块》-- collections模块",
+          "pubdate": 1688949285,
+          "ctime": 1688949286,
+          "state": 0,
+          "pic": "http://i0.hdslb.com/bfs/archive/2e7936954cb7217bed45e80ff10e42786373c55a.jpg",
+          "duration": 2245,
+          "stat": {
+            "view": 52813
+          },
+          "bvid": "BV1m14y1R7Fc",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "Python基础课程：BV1c4411e77t\n数据结构与算法（python实现）：BV12m4y1e7iY\n算法小讲堂：BV1HT4y1K7DY",
+          "upMid": 314076440
+        },
+        {
+          "aid": 21786264,
+          "title": "《零基础入门学习Web开发》（HTML5&CSS3）",
+          "pubdate": 1523098993,
+          "ctime": 1523098994,
+          "state": 0,
+          "pic": "http://i2.hdslb.com/bfs/archive/0e62a324976289def4389331609141adbdf2ee78.jpg",
+          "duration": 53901,
+          "stat": {
+            "view": 1497577
+          },
+          "bvid": "BV1QW411N762",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "WEB在手，天下我有！\n新书开箱：BV14Z4y1Z7W1\n进阶JavaScript：BV1dG411B7nG",
+          "upMid": 314076440
+        },
+        {
+          "aid": 27744141,
+          "title": "【C语言】《带你学C带你飞》",
+          "pubdate": 1532549854,
+          "ctime": 1532549854,
+          "state": 0,
+          "pic": "http://i1.hdslb.com/bfs/archive/8fc4875fb98a2338cf5d137378c4ee4653008d12.jpg",
+          "duration": 63848,
+          "stat": {
+            "view": 8807329
+          },
+          "bvid": "BV17s411N78s",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "这个教程主要是围绕着C语言从入门到进阶再到探索三个阶段来讲解，可牛X了，快来学习吧！\n>>> 配套资源 <<<\n⚡️鱼C论坛⚡️：BV1BJ41157PJ\n《带你学C带你飞》学习环境搭建教程：BV1mK411n7vn\n《带你学C带你飞》调试篇：BV1Pz4y1B7uZ\n《VIM快速入门》系列课程：BV1Ws411N7JC\n必会100题：cv8735302",
+          "upMid": 314076440
+        },
+        {
+          "aid": 700177937,
+          "title": "《数据结构和算法》应用版（2024年08月26日更新）",
+          "pubdate": 1687827118,
+          "ctime": 1687827118,
+          "state": 0,
+          "pic": "http://i2.hdslb.com/bfs/archive/547a2454989d38c99b23afb9909675ec3d1d9036.jpg",
+          "duration": 2197,
+          "stat": {
+            "view": 83937
+          },
+          "bvid": "BV12m4y1e7iY",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "人类提高效率的历史，是一部工具进化史。原始人用棍棒，农业时代用铁器，工业时代用蒸汽机。每一次工具的进化，最先解锁工具秘密的人，都会率先实现巨大提升。\n\n而我们已经身处智能时代。无论你从事什么工作，不管是跟计算机直接相关的研发，还是表面看是跟人打交道的销售、咨询、教育、服务和管理，人机互动已经无处不在。\n\n而算法，就是智能机器的最大秘密\n\nPython基础课：BV1c4411e77t\nC语言基础课：BV17s411N78s",
+          "upMid": 314076440
+        },
+        {
+          "aid": 360187067,
+          "title": "《数据结构和算法》考研版（2024年10月08日更新）",
+          "pubdate": 1687845600,
+          "ctime": 1687827365,
+          "state": 0,
+          "pic": "http://i0.hdslb.com/bfs/archive/373d00b248080e67a93a6131ab818c40f3ca4b4b.jpg",
+          "duration": 3402,
+          "stat": {
+            "view": 111890
+          },
+          "bvid": "BV1MX4y1p7ud",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "计算机基础综合408，主要通过选择题(40题，每题2分，共80分)和大题(7题，每题分数不等，共70分)进行考察\r\n一共包含4门学科--数据结构、组成原理、操作系统、计算机网络\r\n其中数据结构和组成原理考察的总分值较高，操作系统其次，计算机网络总分值最低。\r\n\r\n官方Python课程：BV1c4411e77t\r\n数据结构与算法：BV12m4y1e7iY\r\n趣味学算法：BV1HT4y1K7DY\r\nWeb课程：BV1QW411N762\r\nJavaScript课程：BV1dG411B7nG\r\nC语言课程：BV1",
+          "upMid": 314076440
+        },
+        {
+          "aid": 52080698,
+          "title": "【Python教程】《零基础入门学习Python》最新版（完结撒花🎉）",
+          "pubdate": 1557527581,
+          "ctime": 1557527582,
+          "state": 0,
+          "pic": "http://i2.hdslb.com/bfs/archive/383c952565090276d1908c1f50d416d0b43c8429.jpg",
+          "duration": 63328,
+          "stat": {
+            "view": 13533061
+          },
+          "bvid": "BV1c4411e77t",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "本系列教程是《零基础入门学习Python》最新版教程，希望大家喜欢。\n\n课后资源&作业 >>> BV1BJ41157PJ\n偷偷学点算法吧㊙️\n数据结构与算法 >>> BV12m4y1e7iY\n趣味学算法 >>> BV1HT4y1K7DY",
+          "upMid": 314076440
+        },
+        {
+          "aid": 410545007,
+          "title": "《零基础入门学习JavaScript开发》（2026年7月31日更新）",
+          "pubdate": 1704038400,
+          "ctime": 1704028262,
+          "state": 0,
+          "pic": "http://i1.hdslb.com/bfs/archive/610f5ce22faa18d2971cdbb5793f07e50e696319.jpg",
+          "duration": 17149,
+          "stat": {
+            "view": 85237
+          },
+          "bvid": "BV1dG411B7nG",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "HTML5+CSS3课程：BV1QW411N762\n\nJavaScript是一种高级的、解释型的编程语言，它在1995年由Netscape的Brendan Eich创建。最初设计用于在网页上增加动态效果，现在已经成为Web开发中最为重要的语言之一。JavaScript在所有现代网络浏览器中均得到支持，并且是构建交互式网页所必需的核心技术。",
+          "upMid": 314076440
+        },
+        {
+          "aid": 113792339935542,
+          "title": "【Python教程】《“笨办法”学Python》第5版（2026年07月16日更新）",
+          "pubdate": 1736333554,
+          "ctime": 1736333554,
+          "state": 0,
+          "pic": "http://i1.hdslb.com/bfs/archive/9afd2c808cd9555adaff77cee908daf46e6d539f.jpg",
+          "duration": 22080,
+          "stat": {
+            "view": 311407
+          },
+          "bvid": "BV1oHrYYwEnu",
+          "ugc_pay": 0,
+          "interactive_video": false,
+          "enable_vt": 0,
+          "vt_display": "",
+          "playback_position": 0,
+          "desc": "Python最新版：BV1c4411e77t\n\n《“笨办法”学Python》本书是一本Python入门书，适合对计算机了解不多，没有学过编程，但对编程感兴趣的读者学习使用。这本书以习题的方式引导读者一步一步学习编程，从简单的打印一直讲到完整项目的实现，让初学者从基础的编程技术入手，最终体验到软件开发的基本过程。",
+          "upMid": 314076440
+        }
+      ]
+    },
+    {
+      "meta": {
+        "category": 2,
+        "creator": "auto",
+        "ctime": 1655435758,
+        "description": "直播回放",
+        "keywords": [
+          ""
+        ],
+        "last_update_ts": 1655446857,
+        "mid": 314076440,
+        "mtime": 1655446857,
+        "name": "直播回放",
+        "raw_keywords": "",
+        "series_id": 2381961,
+        "state": 2,
+        "total": 0
+      },
+      "archives": []
+    }
+  ]
+}

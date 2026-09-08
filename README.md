@@ -1,8 +1,8 @@
 # 小甲鱼学习笔记 / FishC Learning Notes
 
-> **这是我个人的 Python、C 语言等学习资料，供大家参考。Python 和 C 语言等等一系列实际版权属于小甲鱼，如果有侵权行为，直接联系我要求下架即可。**
+> **这是我个人的 Python、C 语言等学习资料，供大家参考。课程视频、字幕文字等课程内容的实际版权属于小甲鱼（鱼C工作室），如果有侵权行为，直接联系我要求下架即可。**
 >
-> **This is my personal collection of Python, C language and other study materials for reference. The actual copyright of Python, C language and all related content belongs to FishC (小甲鱼). If there is any infringement, please contact me directly to request removal.**
+> **This is my personal collection of Python, C language and other study materials for reference. The copyright of the course videos, transcribed subtitles and other course content belongs to FishC Studio (小甲鱼). If there is any infringement, please contact me directly to request removal.**
 
 ---
 
